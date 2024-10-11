@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ranking de Treinos</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        /* Adicione algum estilo básico para o layout */
+        .container {
+            max-width: 800px;
+            margin: auto;
+            padding: 20px;
+            text-align: center;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+
+        th, td {
+            border: 1px solid #ccc;
+            padding: 10px;
+            text-align: center;
+        }
+
+        .podio-container {
+            display: flex;
+            justify-content: space-around;
+            margin: 20px 0;
+            display: none; /* Esconde o pódio inicialmente */
+        }
+
+        .podio-posicao {
+            text-align: center;
+        }
+
+        .podio-foto {
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Top 10 Gym Rats</h1>
+
+        <!-- Filtros por mês -->
+        <label for="monthFilter">Filtrar por Mês:</label>
+        <select id="monthFilter">
+            <option value="all">Todos os meses</option>
+        </select>
+        <button id="filterButton">Filtrar</button>
+
+        <!-- Botão para calcular o agregado dos últimos 4 meses -->
+        <button id="last4MonthsButton">Calcular Agregado dos Últimos 4 Meses</button>
+
+        <!-- Pódio -->
+        <div id="podio" class="podio-container">
+            <div id="primeiro" class="podio-posicao">
+                <span class="estrelas">★</span>
+                <img id="primeiroFoto" class="podio-foto" src="" alt="Primeiro Lugar">
+                <p id="primeiroNome"></p>
+            </div>
+            <div id="segundo" class="podio-posicao">
+                <span class="estrelas">★★</span>
+                <img id="segundoFoto" class="podio-foto" src="" alt="Segundo Lugar">
+                <p id="segundoNome"></p>
+            </div>
+            <div id="terceiro" class="podio-posicao">
+                <span class="estrelas">★★★</span>
+                <img id="terceiroFoto" class="podio-foto" src="" alt="Terceiro Lugar">
+                <p id="terceiroNome"></p>
+            </div>
+        </div>
+
+        <!-- Tabela -->
+        <table id="ranking">
+            <thead>
+                <tr>
+                    <th>#</th>
+                    <th>Nome</th>
+                    <th>Pontos</th>
+                    <th>Data da Atividade</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Os dados serão inseridos aqui -->
+            </tbody>
+        </table>
+
+        <!-- Resultados dos últimos 4 meses -->
+        <div id="last4MonthsResult">
+            <h3>Resultado dos Últimos 4 Meses:</h3>
+            <p>Total de Pontos: <span id="totalPontos"></span></p>
+        </div>
+    </div>
+
+    <script>
+        async function loadData() {
+            try {
+                const response = await fetch('data.json'); // Lê o arquivo JSON
+                const data = await response.json();
+
+                // Função auxiliar para popular o filtro de meses
+                populateMonthFilter(data.stats);
+
+                // Mostrar os top 10 inicialmente
+                const top10 = aggregatePoints(data.stats).sort((a, b) => b.pontos - a.pontos).slice(0, 10);
+                updateTable(top10);
+
+                // Adicionar evento de clique no botão de filtro
+                document.getElementById('filterButton').addEventListener('click', () => {
+                    const selectedMonth = document.getElementById('monthFilter').value;
+                    filterByMonth(data.stats, selectedMonth);
+                });
+
+                // Adicionar evento de clique no botão dos últimos 4 meses
+                document.getElementById('last4MonthsButton').addEventListener('click', () => {
+                    calculateLast4Months(data.stats);
+                });
+
+            } catch (error) {
+                console.error('Erro ao carregar os dados:', error);
+            }
+        }
+
+        function populateMonthFilter(data) {
+            const monthFilter = document.getElementById('monthFilter');
+
+            const months = new Set();
+
+            data.forEach(person => {
+                const activityDate = new Date(person.dataAtividade.split('-').reverse().join('-'));
+                const monthYear = `${activityDate.getFullYear()}-${String(activityDate.getMonth() + 1).padStart(2, '0')}`;
+                months.add(monthYear);
+            });
+
+            // Adiciona os meses únicos ao select
+            months.forEach(month => {
+                const option = document.createElement('option');
+                option.value = month;
+                option.text = month;
+                monthFilter.appendChild(option);
+            });
+        }
+
+        // Função para calcular pontuação por mês
+        function filterByMonth(data, selectedMonth) {
+            if (selectedMonth === 'all') {
+                const aggregatedData = aggregatePoints(data);
+                updateTable(aggregatedData.sort((a, b) => b.pontos - a.pontos)); // Ordena por pontos
+                return;
+            }
+
+            const filteredData = data.filter(person => {
+                const activityDate = new Date(person.dataAtividade.split('-').reverse().join('-'));
+                const activityMonthYear = `${activityDate.getFullYear()}-${String(activityDate.getMonth() + 1).padStart(2, '0')}`;
+                return activityMonthYear === selectedMonth;
+            });
+
+            const userPointsByMonth = aggregatePoints(filteredData);
+            updateTable(userPointsByMonth.sort((a, b) => b.pontos - a.pontos)); // Ordena por pontos
+        }
+
+        // Função para calcular agregado dos últimos 4 meses
+        function calculateLast4Months(data) {
+            const currentDate = new Date();
+            const last4MonthsData = data.filter(person => {
+                const activityDate = new Date(person.dataAtividade.split('-').reverse().join('-'));
+                const diffMonths = (currentDate.getFullYear() - activityDate.getFullYear()) * 12 + 
+                                   (currentDate.getMonth() - activityDate.getMonth());
+                return diffMonths <= 4;
+            });
+
+            // Agregar pontuações por usuário nos últimos 4 meses
+            const userPoints = aggregatePoints(last4MonthsData);
+            updateTable(userPoints.sort((a, b) => b.pontos - a.pontos)); // Ordena por pontos
+
+            // Pegar os 3 primeiros colocados para o pódio
+            const top3 = userPoints.sort((a, b) => b.pontos - a.pontos).slice(0, 3);
+            updatePodium(top3);
+
+            // Exibir o pódio
+            document.getElementById('podio').style.display = 'flex';
+
+            // Exibir total de pontos
+            const totalPontos = userPoints.reduce((total, person) => total + person.pontos, 0);
+            document.getElementById('totalPontos').innerText = totalPontos.toFixed(2);
+        }
+
+        // Função auxiliar para agregar pontuações por usuário
+        function aggregatePoints(data) {
+            const userPoints = {};
+
+            data.forEach(person => {
+                const pontos = parseFloat(person.pontosAtividade);
+                if (userPoints[person.nomeUsuario]) {
+                    userPoints[person.nomeUsuario].pontos += pontos;
+                } else {
+                    userPoints[person.nomeUsuario] = {
+                        nome: person.nomeUsuario,
+                        foto: person.fotoUsuario || "https://placebeard.it/250/250", // Foto padrão
+                        pontos: pontos
+                    };
+                }
+            });
+
+            return Object.values(userPoints); // Converte para array
+        }
+
+        // Atualiza a tabela com dados agregados por mês ou total
+        function updateTable(data) {
+            const tbody = document.querySelector('#ranking tbody');
+            tbody.innerHTML = ''; // Limpa a tabela
+
+            data.forEach((person, index) => {
+                const row = document.createElement('tr');
+                row.innerHTML = `
+                    <td>${index + 1}</td>
+                    <td>${person.nome}</td>
+                    <td>${person.pontos.toFixed(2)}</td>
+                    <td>-</td> <!-- Coluna de data fica vazia no agregado -->
+                `;
+                tbody.appendChild(row);
+            });
+        }
+
+        // Atualiza o pódio com os 3 primeiros colocados
+        function updatePodium(top3) {
+            const positions = ["primeiro", "segundo", "terceiro"];
+            top3.forEach((person, index) => {
+                const positionId = positions[index];
+                document.getElementById(`${positionId}Nome`).innerText = person.nome;
+                document.getElementById(`${positionId}Foto`).src = person.foto;
+            });
+        }
+
+        window.onload = loadData;
+    </script>
+</body>
+</html>
