@@ -6,7 +6,7 @@
     <title>Ranking de Treinos</title>
     <link rel="stylesheet" href="style.css">
     <style>
-        /* Adicione algum estilo básico para o layout */
+        /* Estilos básicos */
         .container {
             max-width: 800px;
             margin: auto;
@@ -42,6 +42,70 @@
             height: 100px;
             border-radius: 50%;
         }
+
+        /* Modal Styles */
+        .modal {
+            display: none; 
+            position: fixed; 
+            z-index: 1000;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.5); /* Black with transparency */
+        }
+
+        .modal-content {
+            background-color: #fff;
+            margin: 15% auto;
+            padding: 20px;
+            border: 1px solid #888;
+            width: 40%; /* Ajuste para um modal menor */
+            border-radius: 10px; /* Borda arredondada para um visual mais suave */
+            box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.2); /* Sombra para destaque */
+            text-align: center;
+            animation: fadeIn 0.5s; /* Animação de entrada suave */
+        }
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+            }
+            to {
+                opacity: 1;
+            }
+        }
+
+        .close {
+            color: #aaa;
+            float: right;
+            font-size: 24px;
+            font-weight: bold;
+        }
+
+        .close:hover, .close:focus {
+            color: black;
+            text-decoration: none;
+            cursor: pointer;
+        }
+
+        /* Emojis para o título */
+        .winner-title {
+            font-size: 24px;
+            margin-bottom: 20px;
+            color: #4CAF50;
+        }
+
+        /* Confetti */
+        #confetti-canvas {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            pointer-events: none;
+            z-index: 999; /* Para que o confete apareça acima de tudo */
+        }
     </style>
 </head>
 <body>
@@ -61,17 +125,17 @@
         <!-- Pódio -->
         <div id="podio" class="podio-container">
             <div id="primeiro" class="podio-posicao">
-                <span class="estrelas">★</span>
+                <span class="estrelas">🥇</span>
                 <img id="primeiroFoto" class="podio-foto" src="" alt="Primeiro Lugar">
                 <p id="primeiroNome"></p>
             </div>
             <div id="segundo" class="podio-posicao">
-                <span class="estrelas">★★</span>
+                <span class="estrelas">🥈</span>
                 <img id="segundoFoto" class="podio-foto" src="" alt="Segundo Lugar">
                 <p id="segundoNome"></p>
             </div>
             <div id="terceiro" class="podio-posicao">
-                <span class="estrelas">★★★</span>
+                <span class="estrelas">🥉</span>
                 <img id="terceiroFoto" class="podio-foto" src="" alt="Terceiro Lugar">
                 <p id="terceiroNome"></p>
             </div>
@@ -99,26 +163,37 @@
         </div>
     </div>
 
+    <!-- Modal for displaying winners -->
+    <div id="myModal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <h2 class="winner-title">🎉 Parabéns aos Vencedores! 🎉</h2>
+            <div id="winnerList"></div>
+        </div>
+    </div>
+
+    <!-- Confetti -->
+    <canvas id="confetti-canvas"></canvas>
+
+    <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.4.0/dist/confetti.browser.min.js"></script>
+
     <script>
         async function loadData() {
             try {
-                const response = await fetch('data.json'); // Lê o arquivo JSON
+                const response = await fetch('data.json');
                 const data = await response.json();
 
                 // Função auxiliar para popular o filtro de meses
                 populateMonthFilter(data.stats);
 
-                // Mostrar os top 10 inicialmente
                 const top10 = aggregatePoints(data.stats).sort((a, b) => b.pontos - a.pontos).slice(0, 10);
                 updateTable(top10);
 
-                // Adicionar evento de clique no botão de filtro
                 document.getElementById('filterButton').addEventListener('click', () => {
                     const selectedMonth = document.getElementById('monthFilter').value;
                     filterByMonth(data.stats, selectedMonth);
                 });
 
-                // Adicionar evento de clique no botão dos últimos 4 meses
                 document.getElementById('last4MonthsButton').addEventListener('click', () => {
                     calculateLast4Months(data.stats);
                 });
@@ -128,6 +203,7 @@
             }
         }
 
+        // Função para popular o filtro de meses
         function populateMonthFilter(data) {
             const monthFilter = document.getElementById('monthFilter');
 
@@ -139,7 +215,6 @@
                 months.add(monthYear);
             });
 
-            // Adiciona os meses únicos ao select
             months.forEach(month => {
                 const option = document.createElement('option');
                 option.value = month;
@@ -148,7 +223,6 @@
             });
         }
 
-        // Função para calcular pontuação por mês
         function filterByMonth(data, selectedMonth) {
             if (selectedMonth === 'all') {
                 const aggregatedData = aggregatePoints(data);
@@ -166,7 +240,6 @@
             updateTable(userPointsByMonth.sort((a, b) => b.pontos - a.pontos)); // Ordena por pontos
         }
 
-        // Função para calcular agregado dos últimos 4 meses
         function calculateLast4Months(data) {
             const currentDate = new Date();
             const last4MonthsData = data.filter(person => {
@@ -176,23 +249,22 @@
                 return diffMonths <= 4;
             });
 
-            // Agregar pontuações por usuário nos últimos 4 meses
             const userPoints = aggregatePoints(last4MonthsData);
-            updateTable(userPoints.sort((a, b) => b.pontos - a.pontos)); // Ordena por pontos
+            updateTable(userPoints.sort((a, b) => b.pontos - a.pontos));
 
-            // Pegar os 3 primeiros colocados para o pódio
             const top3 = userPoints.sort((a, b) => b.pontos - a.pontos).slice(0, 3);
             updatePodium(top3);
 
-            // Exibir o pódio
+            // Mostra popup e confetes
+            showWinnersPopup(top3);
+            triggerConfetti(); // Dispara confetes!
+
             document.getElementById('podio').style.display = 'flex';
 
-            // Exibir total de pontos
             const totalPontos = userPoints.reduce((total, person) => total + person.pontos, 0);
             document.getElementById('totalPontos').innerText = totalPontos.toFixed(2);
         }
 
-        // Função auxiliar para agregar pontuações por usuário
         function aggregatePoints(data) {
             const userPoints = {};
 
@@ -203,19 +275,18 @@
                 } else {
                     userPoints[person.idUsuario] = {
                         nome: person.nomeUsuario,
-                        foto: person.fotoUsuario || "./profile.png", // Foto padrão
+                        foto: person.fotoUsuario || './profile.png',
                         pontos: pontos
                     };
                 }
             });
 
-            return Object.values(userPoints); // Converte para array
+            return Object.values(userPoints);
         }
 
-        // Atualiza a tabela com dados agregados por mês ou total
         function updateTable(data) {
             const tbody = document.querySelector('#ranking tbody');
-            tbody.innerHTML = ''; // Limpa a tabela
+            tbody.innerHTML = '';
 
             data.forEach((person, index) => {
                 const row = document.createElement('tr');
@@ -223,20 +294,69 @@
                     <td>${index + 1}</td>
                     <td>${person.nome}</td>
                     <td>${person.pontos.toFixed(2)}</td>
-                    <td>-</td> <!-- Coluna de data fica vazia no agregado -->
+                    <td>-</td>
                 `;
                 tbody.appendChild(row);
             });
         }
 
-        // Atualiza o pódio com os 3 primeiros colocados
         function updatePodium(top3) {
-            const positions = ["primeiro", "segundo", "terceiro"];
+            const positions = ['primeiro', 'segundo', 'terceiro'];
             top3.forEach((person, index) => {
                 const positionId = positions[index];
                 document.getElementById(`${positionId}Nome`).innerText = person.nome;
                 document.getElementById(`${positionId}Foto`).src = person.foto;
             });
+        }
+
+        function showWinnersPopup(top3) {
+            const modal = document.getElementById('myModal');
+            const closeBtn = document.querySelector('.close');
+            const winnerList = document.getElementById('winnerList');
+
+            winnerList.innerHTML = '';
+            top3.forEach((person, index) => {
+                winnerList.innerHTML += `
+                    <p>${index + 1}. ${person.nome} - ${person.pontos.toFixed(2)} pontos 🏆</p>
+                `;
+            });
+
+            modal.style.display = 'block';
+
+            closeBtn.onclick = function () {
+                modal.style.display = 'none';
+            };
+
+            window.onclick = function (event) {
+                if (event.target == modal) {
+                    modal.style.display = 'none';
+                }
+            };
+        }
+
+        function triggerConfetti() {
+            // Efeito de confete
+            var duration = 5 * 1000;
+            var end = Date.now() + duration;
+
+            (function frame() {
+                confetti({
+                    particleCount: 3,
+                    angle: 60,
+                    spread: 55,
+                    origin: { x: 0 }
+                });
+                confetti({
+                    particleCount: 3,
+                    angle: 120,
+                    spread: 55,
+                    origin: { x: 1 }
+                });
+
+                if (Date.now() < end) {
+                    requestAnimationFrame(frame);
+                }
+            }());
         }
 
         window.onload = loadData;
