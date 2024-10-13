@@ -198,10 +198,10 @@
 
             data.forEach(person => {
                 const pontos = parseFloat(person.pontosAtividade);
-                if (userPoints[person.nomeUsuario]) {
-                    userPoints[person.nomeUsuario].pontos += pontos;
+                if (userPoints[person.idUsuario]) {
+                    userPoints[person.idUsuario].pontos += pontos;
                 } else {
-                    userPoints[person.nomeUsuario] = {
+                    userPoints[person.idUsuario] = {
                         nome: person.nomeUsuario,
                         foto: person.fotoUsuario || "./profile.png", // Foto padrão
                         pontos: pontos
