@@ -1,6 +1,474 @@
 {
     "stats": [
         {
+            "idUsuario": 1301123,
+            "nomeUsuario": "George",
+            "tituloTreino": "DL sum\u00f4 @5 + bench@6",
+            "tipoAtividade": "",
+            "pontosAtividade": "14.29",
+            "caloriasAtividade": 0,
+            "passosAtividade": 0,
+            "duracaoAtividade": "90",
+            "distanciaAtividade": 0,
+            "dataAtividade": "19-10-2024"
+        },
+        {
+            "idUsuario": 804592,
+            "nomeUsuario": "Pedro",
+            "tituloTreino": "Costas na praia",
+            "tipoAtividade": "",
+            "pontosAtividade": "11.98",
+            "caloriasAtividade": "652",
+            "passosAtividade": 0,
+            "duracaoAtividade": "75",
+            "distanciaAtividade": 0,
+            "dataAtividade": "19-10-2024"
+        },
+        {
+            "idUsuario": 1140003,
+            "nomeUsuario": "Al\u00ea",
+            "tituloTreino": "melhor dia da semana! skin de bailarina",
+            "tipoAtividade": "",
+            "pontosAtividade": "22.5",
+            "caloriasAtividade": 0,
+            "passosAtividade": 0,
+            "duracaoAtividade": "180",
+            "distanciaAtividade": 0,
+            "dataAtividade": "19-10-2024"
+        },
+        {
+            "idUsuario": 316490,
+            "nomeUsuario": "Marcos",
+            "tituloTreino": "Muscula\u00e7\u00e3o ",
+            "tipoAtividade": "",
+            "pontosAtividade": "9.99",
+            "caloriasAtividade": "337",
+            "passosAtividade": 0,
+            "duracaoAtividade": "62",
+            "distanciaAtividade": 0,
+            "dataAtividade": "18-10-2024"
+        },
+        {
+            "idUsuario": 821467,
+            "nomeUsuario": "Leonardo",
+            "tituloTreino": "Aula de samba rock",
+            "tipoAtividade": "",
+            "pontosAtividade": "14.56",
+            "caloriasAtividade": "1.001",
+            "passosAtividade": 0,
+            "duracaoAtividade": "150",
+            "distanciaAtividade": 0,
+            "dataAtividade": "18-10-2024"
+        },
+        {
+            "idUsuario": 1301123,
+            "nomeUsuario": "George",
+            "tituloTreino": "Squat@5 + bench@5",
+            "tipoAtividade": "",
+            "pontosAtividade": "16.67",
+            "caloriasAtividade": 0,
+            "passosAtividade": 0,
+            "duracaoAtividade": "105",
+            "distanciaAtividade": 0,
+            "dataAtividade": "18-10-2024"
+        },
+        {
+            "idUsuario": 1140003,
+            "nomeUsuario": "Al\u00ea",
+            "tituloTreino": "sextou com pilates!",
+            "tipoAtividade": "",
+            "pontosAtividade": "7.5",
+            "caloriasAtividade": "487",
+            "passosAtividade": 0,
+            "duracaoAtividade": "60",
+            "distanciaAtividade": 0,
+            "dataAtividade": "18-10-2024"
+        },
+        {
+            "idUsuario": 804592,
+            "nomeUsuario": "Pedro",
+            "tituloTreino": "Caminhada ",
+            "tipoAtividade": "",
+            "pontosAtividade": "7.13",
+            "caloriasAtividade": "401",
+            "passosAtividade": "4.669",
+            "duracaoAtividade": "39",
+            "distanciaAtividade": "4.68",
+            "dataAtividade": "18-10-2024"
+        },
+        {
+            "idUsuario": 354733,
+            "nomeUsuario": "Milene",
+            "tituloTreino": "Treinamento Funcional ",
+            "tipoAtividade": "",
+            "pontosAtividade": "14.99",
+            "caloriasAtividade": "494",
+            "passosAtividade": 0,
+            "duracaoAtividade": "77",
+            "distanciaAtividade": 0,
+            "dataAtividade": "18-10-2024"
+        },
+        {
+            "idUsuario": 821467,
+            "nomeUsuario": "Leonardo",
+            "tituloTreino": "N queria vir, mas vim rapidinho",
+            "tipoAtividade": "",
+            "pontosAtividade": "11.11",
+            "caloriasAtividade": "490",
+            "passosAtividade": 0,
+            "duracaoAtividade": "70",
+            "distanciaAtividade": 0,
+            "dataAtividade": "18-10-2024"
+        },
+        {
+            "idUsuario": 316490,
+            "nomeUsuario": "Marcos",
+            "tituloTreino": "Muscula\u00e7\u00e3o ",
+            "tipoAtividade": "",
+            "pontosAtividade": "14.02",
+            "caloriasAtividade": "439",
+            "passosAtividade": 0,
+            "duracaoAtividade": "88",
+            "distanciaAtividade": 0,
+            "dataAtividade": "17-10-2024"
+        },
+        {
+            "idUsuario": 804592,
+            "nomeUsuario": "Pedro",
+            "tituloTreino": "Bra\u00e7os \ud83d\udcaa",
+            "tipoAtividade": "",
+            "pontosAtividade": "12.49",
+            "caloriasAtividade": "640",
+            "passosAtividade": 0,
+            "duracaoAtividade": "78",
+            "distanciaAtividade": 0,
+            "dataAtividade": "17-10-2024"
+        },
+        {
+            "idUsuario": 805183,
+            "nomeUsuario": "Leonardo",
+            "tituloTreino": "Legs \ud83e\uddb5",
+            "tipoAtividade": "",
+            "pontosAtividade": "7.99",
+            "caloriasAtividade": "377",
+            "passosAtividade": "770",
+            "duracaoAtividade": "50",
+            "distanciaAtividade": "0.34",
+            "dataAtividade": "17-10-2024"
+        },
+        {
+            "idUsuario": 430994,
+            "nomeUsuario": "Cecilia",
+            "tituloTreino": "Pernoquitas \ud83e\uddbf",
+            "tipoAtividade": "",
+            "pontosAtividade": "16.31",
+            "caloriasAtividade": "475",
+            "passosAtividade": 0,
+            "duracaoAtividade": "84",
+            "distanciaAtividade": 0,
+            "dataAtividade": "17-10-2024"
+        },
+        {
+            "idUsuario": 317304,
+            "nomeUsuario": "Daniel",
+            "tituloTreino": "Muscula\u00e7\u00e3o",
+            "tipoAtividade": "",
+            "pontosAtividade": "11.89",
+            "caloriasAtividade": "404",
+            "passosAtividade": 0,
+            "duracaoAtividade": "74",
+            "distanciaAtividade": 0,
+            "dataAtividade": "17-10-2024"
+        },
+        {
+            "idUsuario": 1057522,
+            "nomeUsuario": "Sol",
+            "tituloTreino": "Muay \ud83c\uddf9\ud83c\udded Thai \ud83d\udcaa\ud83c\udffb\ud83e\udd4a\ud83e\uddb5",
+            "tipoAtividade": "",
+            "pontosAtividade": "15.86",
+            "caloriasAtividade": "405",
+            "passosAtividade": 0,
+            "duracaoAtividade": "82",
+            "distanciaAtividade": 0,
+            "dataAtividade": "17-10-2024"
+        },
+        {
+            "idUsuario": 1301123,
+            "nomeUsuario": "George",
+            "tituloTreino": "Deadlift@8 + auxiliares ",
+            "tipoAtividade": "",
+            "pontosAtividade": "20.63",
+            "caloriasAtividade": 0,
+            "passosAtividade": 0,
+            "duracaoAtividade": "130",
+            "distanciaAtividade": 0,
+            "dataAtividade": "16-10-2024"
+        },
+        {
+            "idUsuario": 316490,
+            "nomeUsuario": "Marcos",
+            "tituloTreino": "Cross Training+ Legs",
+            "tipoAtividade": "",
+            "pontosAtividade": "21.33",
+            "caloriasAtividade": "808",
+            "passosAtividade": 0,
+            "duracaoAtividade": "122",
+            "distanciaAtividade": 0,
+            "dataAtividade": "16-10-2024"
+        },
+        {
+            "idUsuario": 1140003,
+            "nomeUsuario": "Al\u00ea",
+            "tituloTreino": "pilates da quartaaa",
+            "tipoAtividade": "",
+            "pontosAtividade": "7.5",
+            "caloriasAtividade": "424",
+            "passosAtividade": 0,
+            "duracaoAtividade": "60",
+            "distanciaAtividade": 0,
+            "dataAtividade": "16-10-2024"
+        },
+        {
+            "idUsuario": 804592,
+            "nomeUsuario": "Pedro",
+            "tituloTreino": "Ombros ",
+            "tipoAtividade": "",
+            "pontosAtividade": "12.57",
+            "caloriasAtividade": "648",
+            "passosAtividade": 0,
+            "duracaoAtividade": "79",
+            "distanciaAtividade": 0,
+            "dataAtividade": "16-10-2024"
+        },
+        {
+            "idUsuario": 805183,
+            "nomeUsuario": "Leonardo",
+            "tituloTreino": "Back ",
+            "tipoAtividade": "",
+            "pontosAtividade": "8.16",
+            "caloriasAtividade": "392",
+            "passosAtividade": "1.150",
+            "duracaoAtividade": "51",
+            "distanciaAtividade": "0.66",
+            "dataAtividade": "16-10-2024"
+        },
+        {
+            "idUsuario": 317304,
+            "nomeUsuario": "Daniel",
+            "tituloTreino": "Muscula\u00e7\u00e3o",
+            "tipoAtividade": "",
+            "pontosAtividade": "10.19",
+            "caloriasAtividade": "318",
+            "passosAtividade": 0,
+            "duracaoAtividade": "64",
+            "distanciaAtividade": 0,
+            "dataAtividade": "16-10-2024"
+        },
+        {
+            "idUsuario": 430994,
+            "nomeUsuario": "Cecilia",
+            "tituloTreino": "Corrida e bracitos",
+            "tipoAtividade": "",
+            "pontosAtividade": "24.68",
+            "caloriasAtividade": "556",
+            "passosAtividade": 0,
+            "duracaoAtividade": "128",
+            "distanciaAtividade": 0,
+            "dataAtividade": "16-10-2024"
+        },
+        {
+            "idUsuario": 316490,
+            "nomeUsuario": "Marcos",
+            "tituloTreino": "40 min de esteira ",
+            "tipoAtividade": "",
+            "pontosAtividade": "7.31",
+            "caloriasAtividade": "326",
+            "passosAtividade": 0,
+            "duracaoAtividade": "40",
+            "distanciaAtividade": 0,
+            "dataAtividade": "16-10-2024"
+        },
+        {
+            "idUsuario": 821467,
+            "nomeUsuario": "Leonardo",
+            "tituloTreino": "Ombros + cardio",
+            "tipoAtividade": "",
+            "pontosAtividade": "19.84",
+            "caloriasAtividade": "857",
+            "passosAtividade": 0,
+            "duracaoAtividade": "120",
+            "distanciaAtividade": 0,
+            "dataAtividade": "15-10-2024"
+        },
+        {
+            "idUsuario": 1301123,
+            "nomeUsuario": "George",
+            "tituloTreino": "Bench@8 + auxiliares",
+            "tipoAtividade": "",
+            "pontosAtividade": "14.29",
+            "caloriasAtividade": 0,
+            "passosAtividade": 0,
+            "duracaoAtividade": "90",
+            "distanciaAtividade": 0,
+            "dataAtividade": "15-10-2024"
+        },
+        {
+            "idUsuario": 317341,
+            "nomeUsuario": "Bruno",
+            "tituloTreino": "Quadsss",
+            "tipoAtividade": "",
+            "pontosAtividade": "9.71",
+            "caloriasAtividade": "450",
+            "passosAtividade": 0,
+            "duracaoAtividade": "61",
+            "distanciaAtividade": 0,
+            "dataAtividade": "15-10-2024"
+        },
+        {
+            "idUsuario": 804592,
+            "nomeUsuario": "Pedro",
+            "tituloTreino": "Pernas \ud83d\udc80",
+            "tipoAtividade": "",
+            "pontosAtividade": "13.78",
+            "caloriasAtividade": "791",
+            "passosAtividade": 0,
+            "duracaoAtividade": "86",
+            "distanciaAtividade": 0,
+            "dataAtividade": "15-10-2024"
+        },
+        {
+            "idUsuario": 1140003,
+            "nomeUsuario": "Al\u00ea",
+            "tituloTreino": "hoje foi s\u00f3 caminhada de leve",
+            "tipoAtividade": "",
+            "pontosAtividade": "2.07",
+            "caloriasAtividade": "212",
+            "passosAtividade": 0,
+            "duracaoAtividade": 0,
+            "distanciaAtividade": "2",
+            "dataAtividade": "15-10-2024"
+        },
+        {
+            "idUsuario": 430994,
+            "nomeUsuario": "Cecilia",
+            "tituloTreino": "Pernocas",
+            "tipoAtividade": "",
+            "pontosAtividade": "11.72",
+            "caloriasAtividade": "352",
+            "passosAtividade": 0,
+            "duracaoAtividade": "77",
+            "distanciaAtividade": "0.23",
+            "dataAtividade": "15-10-2024"
+        },
+        {
+            "idUsuario": 317304,
+            "nomeUsuario": "Daniel",
+            "tituloTreino": "Muscula\u00e7\u00e3o",
+            "tipoAtividade": "",
+            "pontosAtividade": "9.52",
+            "caloriasAtividade": "358",
+            "passosAtividade": 0,
+            "duracaoAtividade": "59",
+            "distanciaAtividade": 0,
+            "dataAtividade": "15-10-2024"
+        },
+        {
+            "idUsuario": 1301123,
+            "nomeUsuario": "George",
+            "tituloTreino": "Squat@7 + bench@5",
+            "tipoAtividade": "Muscula\u00e7\u00e3o",
+            "pontosAtividade": "19.05",
+            "caloriasAtividade": 0,
+            "passosAtividade": 0,
+            "duracaoAtividade": "120",
+            "distanciaAtividade": 0,
+            "dataAtividade": "15-10-2024"
+        },
+        {
+            "idUsuario": 821467,
+            "nomeUsuario": "Leonardo",
+            "tituloTreino": "Chest + triceps",
+            "tipoAtividade": "",
+            "pontosAtividade": "22.53",
+            "caloriasAtividade": "1.125",
+            "passosAtividade": 0,
+            "duracaoAtividade": "139",
+            "distanciaAtividade": 0,
+            "dataAtividade": "14-10-2024"
+        },
+        {
+            "idUsuario": 316490,
+            "nomeUsuario": "Marcos",
+            "tituloTreino": "Cross Training e Muscula\u00e7\u00e3o ",
+            "tipoAtividade": "",
+            "pontosAtividade": "18.11",
+            "caloriasAtividade": "681",
+            "passosAtividade": 0,
+            "duracaoAtividade": "101",
+            "distanciaAtividade": 0,
+            "dataAtividade": "14-10-2024"
+        },
+        {
+            "idUsuario": 1140003,
+            "nomeUsuario": "Al\u00ea",
+            "tituloTreino": "come\u00e7ando o desafioooo",
+            "tipoAtividade": "",
+            "pontosAtividade": "9.52",
+            "caloriasAtividade": "372",
+            "passosAtividade": 0,
+            "duracaoAtividade": "60",
+            "distanciaAtividade": 0,
+            "dataAtividade": "14-10-2024"
+        },
+        {
+            "idUsuario": 804592,
+            "nomeUsuario": "Pedro",
+            "tituloTreino": "Peito \ud83d\udcaa",
+            "tipoAtividade": "",
+            "pontosAtividade": "12.76",
+            "caloriasAtividade": "695",
+            "passosAtividade": 0,
+            "duracaoAtividade": "80",
+            "distanciaAtividade": 0,
+            "dataAtividade": "14-10-2024"
+        },
+        {
+            "idUsuario": 317341,
+            "nomeUsuario": "Bruno",
+            "tituloTreino": "Biceps",
+            "tipoAtividade": "",
+            "pontosAtividade": "11.66",
+            "caloriasAtividade": "407",
+            "passosAtividade": 0,
+            "duracaoAtividade": "73",
+            "distanciaAtividade": 0,
+            "dataAtividade": "14-10-2024"
+        },
+        {
+            "idUsuario": 430994,
+            "nomeUsuario": "Cecilia",
+            "tituloTreino": "Funcional c bracitos \ud83d\udcaa\ud83c\udffc",
+            "tipoAtividade": "",
+            "pontosAtividade": "14.58",
+            "caloriasAtividade": "378",
+            "passosAtividade": 0,
+            "duracaoAtividade": "79",
+            "distanciaAtividade": "1.68",
+            "dataAtividade": "14-10-2024"
+        },
+        {
+            "idUsuario": 317304,
+            "nomeUsuario": "Daniel",
+            "tituloTreino": "Muscula\u00e7\u00e3o",
+            "tipoAtividade": "",
+            "pontosAtividade": "12.08",
+            "caloriasAtividade": "419",
+            "passosAtividade": 0,
+            "duracaoAtividade": "76",
+            "distanciaAtividade": 0,
+            "dataAtividade": "13-10-2024"
+        },
+        {
             "idUsuario": 821467,
             "nomeUsuario": "Leonardo",
             "tituloTreino": "Corrida da unicamp",
@@ -21,18 +489,6 @@
             "caloriasAtividade": "954",
             "passosAtividade": 0,
             "duracaoAtividade": "104",
-            "distanciaAtividade": 0,
-            "dataAtividade": "13-10-2024"
-        },
-        {
-            "idUsuario": 979267,
-            "nomeUsuario": "Alexandre",
-            "tituloTreino": "Climbing",
-            "tipoAtividade": "",
-            "pontosAtividade": "32.85",
-            "caloriasAtividade": "1.606",
-            "passosAtividade": 0,
-            "duracaoAtividade": "197",
             "distanciaAtividade": 0,
             "dataAtividade": "13-10-2024"
         },
@@ -61,18 +517,6 @@
             "dataAtividade": "12-10-2024"
         },
         {
-            "idUsuario": 885420,
-            "nomeUsuario": "Leticia",
-            "tituloTreino": "Core Training",
-            "tipoAtividade": "",
-            "pontosAtividade": "5.14",
-            "caloriasAtividade": "86",
-            "passosAtividade": 0,
-            "duracaoAtividade": "33",
-            "distanciaAtividade": 0,
-            "dataAtividade": "12-10-2024"
-        },
-        {
             "idUsuario": 805183,
             "nomeUsuario": "Leonardo",
             "tituloTreino": "Running ",
@@ -93,18 +537,6 @@
             "caloriasAtividade": "547",
             "passosAtividade": 0,
             "duracaoAtividade": "124",
-            "distanciaAtividade": 0,
-            "dataAtividade": "11-10-2024"
-        },
-        {
-            "idUsuario": 979267,
-            "nomeUsuario": "Alexandre",
-            "tituloTreino": "Functional Strength Training",
-            "tipoAtividade": "",
-            "pontosAtividade": "13.28",
-            "caloriasAtividade": "475",
-            "passosAtividade": 0,
-            "duracaoAtividade": "69",
             "distanciaAtividade": 0,
             "dataAtividade": "11-10-2024"
         },
@@ -145,18 +577,6 @@
             "dataAtividade": "11-10-2024"
         },
         {
-            "idUsuario": 885420,
-            "nomeUsuario": "Leticia",
-            "tituloTreino": "Traditional Strength Training",
-            "tipoAtividade": "",
-            "pontosAtividade": "15.35",
-            "caloriasAtividade": "374",
-            "passosAtividade": 0,
-            "duracaoAtividade": "96",
-            "distanciaAtividade": 0,
-            "dataAtividade": "11-10-2024"
-        },
-        {
             "idUsuario": 805183,
             "nomeUsuario": "Leonardo",
             "tituloTreino": "Arms + Forearms",
@@ -169,14 +589,14 @@
             "dataAtividade": "11-10-2024"
         },
         {
-            "idUsuario": 979446,
-            "nomeUsuario": "Vinicius",
-            "tituloTreino": "Costas e b\u00edceps ",
+            "idUsuario": 317304,
+            "nomeUsuario": "Daniel",
+            "tituloTreino": "Crossfit",
             "tipoAtividade": "",
-            "pontosAtividade": "7.94",
-            "caloriasAtividade": 0,
+            "pontosAtividade": "11",
+            "caloriasAtividade": "647",
             "passosAtividade": 0,
-            "duracaoAtividade": "50",
+            "duracaoAtividade": "57",
             "distanciaAtividade": 0,
             "dataAtividade": "11-10-2024"
         },
@@ -190,30 +610,6 @@
             "passosAtividade": 0,
             "duracaoAtividade": "58",
             "distanciaAtividade": "2.92",
-            "dataAtividade": "10-10-2024"
-        },
-        {
-            "idUsuario": 979267,
-            "nomeUsuario": "Alexandre",
-            "tituloTreino": "Functional Strength Training",
-            "tipoAtividade": "",
-            "pontosAtividade": "14.17",
-            "caloriasAtividade": "462",
-            "passosAtividade": 0,
-            "duracaoAtividade": "73",
-            "distanciaAtividade": 0,
-            "dataAtividade": "10-10-2024"
-        },
-        {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "20\u2019 bike + 20\u2019 el\u00edptico ",
-            "tipoAtividade": "",
-            "pontosAtividade": "8.04",
-            "caloriasAtividade": "271",
-            "passosAtividade": 0,
-            "duracaoAtividade": "42",
-            "distanciaAtividade": 0,
             "dataAtividade": "10-10-2024"
         },
         {
@@ -237,18 +633,6 @@
             "caloriasAtividade": "774",
             "passosAtividade": 0,
             "duracaoAtividade": "92",
-            "distanciaAtividade": 0,
-            "dataAtividade": "10-10-2024"
-        },
-        {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "Treininho fofo pq t\u00f4 capenga \ud83e\udee0",
-            "tipoAtividade": "",
-            "pontosAtividade": "12.56",
-            "caloriasAtividade": "228",
-            "passosAtividade": 0,
-            "duracaoAtividade": "79",
             "distanciaAtividade": 0,
             "dataAtividade": "10-10-2024"
         },
@@ -289,30 +673,6 @@
             "dataAtividade": "09-10-2024"
         },
         {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "Costas express",
-            "tipoAtividade": "",
-            "pontosAtividade": "7.92",
-            "caloriasAtividade": "147",
-            "passosAtividade": 0,
-            "duracaoAtividade": "49",
-            "distanciaAtividade": 0,
-            "dataAtividade": "09-10-2024"
-        },
-        {
-            "idUsuario": 979267,
-            "nomeUsuario": "Alexandre",
-            "tituloTreino": "Functional Strength Training",
-            "tipoAtividade": "",
-            "pontosAtividade": "14.34",
-            "caloriasAtividade": "616",
-            "passosAtividade": 0,
-            "duracaoAtividade": "74",
-            "distanciaAtividade": 0,
-            "dataAtividade": "09-10-2024"
-        },
-        {
             "idUsuario": 805183,
             "nomeUsuario": "Leonardo",
             "tituloTreino": "Back",
@@ -322,42 +682,6 @@
             "passosAtividade": 0,
             "duracaoAtividade": "61",
             "distanciaAtividade": 0,
-            "dataAtividade": "09-10-2024"
-        },
-        {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "El\u00edptico ",
-            "tipoAtividade": "",
-            "pontosAtividade": "11.13",
-            "caloriasAtividade": "509",
-            "passosAtividade": 0,
-            "duracaoAtividade": "61",
-            "distanciaAtividade": 0,
-            "dataAtividade": "09-10-2024"
-        },
-        {
-            "idUsuario": 885420,
-            "nomeUsuario": "Leticia",
-            "tituloTreino": "Traditional Strength Training",
-            "tipoAtividade": "",
-            "pontosAtividade": "8.39",
-            "caloriasAtividade": "247",
-            "passosAtividade": 0,
-            "duracaoAtividade": "52",
-            "distanciaAtividade": 0,
-            "dataAtividade": "09-10-2024"
-        },
-        {
-            "idUsuario": 885420,
-            "nomeUsuario": "Leticia",
-            "tituloTreino": "Walking",
-            "tipoAtividade": "",
-            "pontosAtividade": "2.27",
-            "caloriasAtividade": "106",
-            "passosAtividade": 0,
-            "duracaoAtividade": "20",
-            "distanciaAtividade": "2.19",
             "dataAtividade": "09-10-2024"
         },
         {
@@ -433,54 +757,6 @@
             "dataAtividade": "08-10-2024"
         },
         {
-            "idUsuario": 979267,
-            "nomeUsuario": "Alexandre",
-            "tituloTreino": "Functional Strength Training",
-            "tipoAtividade": "",
-            "pontosAtividade": "13.55",
-            "caloriasAtividade": "531",
-            "passosAtividade": 0,
-            "duracaoAtividade": "70",
-            "distanciaAtividade": 0,
-            "dataAtividade": "08-10-2024"
-        },
-        {
-            "idUsuario": 885420,
-            "nomeUsuario": "Leticia",
-            "tituloTreino": "Traditional Strength Training",
-            "tipoAtividade": "",
-            "pontosAtividade": "7.69",
-            "caloriasAtividade": "169",
-            "passosAtividade": 0,
-            "duracaoAtividade": "48",
-            "distanciaAtividade": 0,
-            "dataAtividade": "08-10-2024"
-        },
-        {
-            "idUsuario": 885420,
-            "nomeUsuario": "Leticia",
-            "tituloTreino": "Walking",
-            "tipoAtividade": "",
-            "pontosAtividade": "1.64",
-            "caloriasAtividade": "72",
-            "passosAtividade": 0,
-            "duracaoAtividade": "31",
-            "distanciaAtividade": "1.58",
-            "dataAtividade": "08-10-2024"
-        },
-        {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "Leg day + caminhadinha",
-            "tipoAtividade": "",
-            "pontosAtividade": "17.27",
-            "caloriasAtividade": "652",
-            "passosAtividade": 0,
-            "duracaoAtividade": "131",
-            "distanciaAtividade": "2.08",
-            "dataAtividade": "08-10-2024"
-        },
-        {
             "idUsuario": 804592,
             "nomeUsuario": "Pedro",
             "tituloTreino": "Leg day",
@@ -502,18 +778,6 @@
             "passosAtividade": "788",
             "duracaoAtividade": "62",
             "distanciaAtividade": "0.43",
-            "dataAtividade": "08-10-2024"
-        },
-        {
-            "idUsuario": 885420,
-            "nomeUsuario": "Leticia",
-            "tituloTreino": "Treino v\u00f4lei \ud83c\udfd0",
-            "tipoAtividade": "",
-            "pontosAtividade": "21.43",
-            "caloriasAtividade": 0,
-            "passosAtividade": 0,
-            "duracaoAtividade": "120",
-            "distanciaAtividade": 0,
             "dataAtividade": "08-10-2024"
         },
         {
@@ -577,18 +841,6 @@
             "dataAtividade": "07-10-2024"
         },
         {
-            "idUsuario": 979446,
-            "nomeUsuario": "Vinicius",
-            "tituloTreino": "Peito e tr\u00edceps ",
-            "tipoAtividade": "",
-            "pontosAtividade": "7.94",
-            "caloriasAtividade": 0,
-            "passosAtividade": 0,
-            "duracaoAtividade": "50",
-            "distanciaAtividade": 0,
-            "dataAtividade": "07-10-2024"
-        },
-        {
             "idUsuario": 1057522,
             "nomeUsuario": "Sol",
             "tituloTreino": "Treino de\ud83e\uddb5hard! ",
@@ -610,30 +862,6 @@
             "passosAtividade": 0,
             "duracaoAtividade": "16",
             "distanciaAtividade": "0.83",
-            "dataAtividade": "07-10-2024"
-        },
-        {
-            "idUsuario": 885420,
-            "nomeUsuario": "Leticia",
-            "tituloTreino": "Traditional Strength Training",
-            "tipoAtividade": "",
-            "pontosAtividade": "6.8",
-            "caloriasAtividade": "193",
-            "passosAtividade": 0,
-            "duracaoAtividade": "42",
-            "distanciaAtividade": 0,
-            "dataAtividade": "07-10-2024"
-        },
-        {
-            "idUsuario": 885420,
-            "nomeUsuario": "Leticia",
-            "tituloTreino": "Walking",
-            "tipoAtividade": "",
-            "pontosAtividade": "1.59",
-            "caloriasAtividade": "87",
-            "passosAtividade": 0,
-            "duracaoAtividade": "21",
-            "distanciaAtividade": "1.54",
             "dataAtividade": "07-10-2024"
         },
         {
@@ -685,30 +913,6 @@
             "dataAtividade": "06-10-2024"
         },
         {
-            "idUsuario": 885420,
-            "nomeUsuario": "Leticia",
-            "tituloTreino": "Tennis",
-            "tipoAtividade": "",
-            "pontosAtividade": "7.84",
-            "caloriasAtividade": "237",
-            "passosAtividade": 0,
-            "duracaoAtividade": "44",
-            "distanciaAtividade": "1.42",
-            "dataAtividade": "06-10-2024"
-        },
-        {
-            "idUsuario": 979267,
-            "nomeUsuario": "Alexandre",
-            "tituloTreino": "Running",
-            "tipoAtividade": "",
-            "pontosAtividade": "3.7",
-            "caloriasAtividade": "213",
-            "passosAtividade": 0,
-            "duracaoAtividade": "18",
-            "distanciaAtividade": "2.5",
-            "dataAtividade": "06-10-2024"
-        },
-        {
             "idUsuario": 1057522,
             "nomeUsuario": "Sol",
             "tituloTreino": "Caminhada da vota\u00e7\u00e3o \ud83d\uddf3\ufe0f ",
@@ -733,30 +937,6 @@
             "dataAtividade": "06-10-2024"
         },
         {
-            "idUsuario": 885420,
-            "nomeUsuario": "Leticia",
-            "tituloTreino": "Traditional Strength Training",
-            "tipoAtividade": "",
-            "pontosAtividade": "6.95",
-            "caloriasAtividade": "197",
-            "passosAtividade": 0,
-            "duracaoAtividade": "43",
-            "distanciaAtividade": 0,
-            "dataAtividade": "06-10-2024"
-        },
-        {
-            "idUsuario": 885420,
-            "nomeUsuario": "Leticia",
-            "tituloTreino": "Elliptical",
-            "tipoAtividade": "",
-            "pontosAtividade": "2.53",
-            "caloriasAtividade": "97",
-            "passosAtividade": 0,
-            "duracaoAtividade": "13",
-            "distanciaAtividade": 0,
-            "dataAtividade": "06-10-2024"
-        },
-        {
             "idUsuario": 804592,
             "nomeUsuario": "Pedro",
             "tituloTreino": "Dia de peito",
@@ -766,18 +946,6 @@
             "passosAtividade": 0,
             "duracaoAtividade": "100",
             "distanciaAtividade": 0,
-            "dataAtividade": "06-10-2024"
-        },
-        {
-            "idUsuario": 885420,
-            "nomeUsuario": "Leticia",
-            "tituloTreino": "Walking",
-            "tipoAtividade": "",
-            "pontosAtividade": "2.48",
-            "caloriasAtividade": "92",
-            "passosAtividade": 0,
-            "duracaoAtividade": "27",
-            "distanciaAtividade": "2.39",
             "dataAtividade": "06-10-2024"
         },
         {
@@ -813,18 +981,6 @@
             "caloriasAtividade": "1.019",
             "passosAtividade": 0,
             "duracaoAtividade": "120",
-            "distanciaAtividade": 0,
-            "dataAtividade": "05-10-2024"
-        },
-        {
-            "idUsuario": 979267,
-            "nomeUsuario": "Alexandre",
-            "tituloTreino": "Functional Strength Training",
-            "tipoAtividade": "",
-            "pontosAtividade": "13.13",
-            "caloriasAtividade": "476",
-            "passosAtividade": 0,
-            "duracaoAtividade": "68",
             "distanciaAtividade": 0,
             "dataAtividade": "05-10-2024"
         },
@@ -925,42 +1081,6 @@
             "dataAtividade": "04-10-2024"
         },
         {
-            "idUsuario": 979267,
-            "nomeUsuario": "Alexandre",
-            "tituloTreino": "Functional Strength Training",
-            "tipoAtividade": "",
-            "pontosAtividade": "12.77",
-            "caloriasAtividade": "629",
-            "passosAtividade": 0,
-            "duracaoAtividade": "66",
-            "distanciaAtividade": 0,
-            "dataAtividade": "04-10-2024"
-        },
-        {
-            "idUsuario": 885420,
-            "nomeUsuario": "Leticia",
-            "tituloTreino": "Traditional Strength Training",
-            "tipoAtividade": "",
-            "pontosAtividade": "4.87",
-            "caloriasAtividade": "181",
-            "passosAtividade": 0,
-            "duracaoAtividade": "30",
-            "distanciaAtividade": 0,
-            "dataAtividade": "04-10-2024"
-        },
-        {
-            "idUsuario": 885420,
-            "nomeUsuario": "Leticia",
-            "tituloTreino": "Elliptical",
-            "tipoAtividade": "",
-            "pontosAtividade": "2.23",
-            "caloriasAtividade": "86",
-            "passosAtividade": 0,
-            "duracaoAtividade": "12",
-            "distanciaAtividade": 0,
-            "dataAtividade": "04-10-2024"
-        },
-        {
             "idUsuario": 805183,
             "nomeUsuario": "Leonardo",
             "tituloTreino": "Arms + Forearms ",
@@ -997,18 +1117,6 @@
             "dataAtividade": "04-10-2024"
         },
         {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "Corrida (at\u00e9 que enfim uma corrida gostosa) \ud83e\udd79",
-            "tipoAtividade": "",
-            "pontosAtividade": "16.28",
-            "caloriasAtividade": "701",
-            "passosAtividade": 0,
-            "duracaoAtividade": "73",
-            "distanciaAtividade": "11.01",
-            "dataAtividade": "04-10-2024"
-        },
-        {
             "idUsuario": 430994,
             "nomeUsuario": "Cecilia",
             "tituloTreino": "Corridinha e leg \ud83d\udca7",
@@ -1030,30 +1138,6 @@
             "passosAtividade": 0,
             "duracaoAtividade": "73",
             "distanciaAtividade": 0,
-            "dataAtividade": "03-10-2024"
-        },
-        {
-            "idUsuario": 979267,
-            "nomeUsuario": "Alexandre",
-            "tituloTreino": "Functional Strength Training",
-            "tipoAtividade": "",
-            "pontosAtividade": "11.78",
-            "caloriasAtividade": "484",
-            "passosAtividade": 0,
-            "duracaoAtividade": "61",
-            "distanciaAtividade": 0,
-            "dataAtividade": "03-10-2024"
-        },
-        {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "Caminhada ",
-            "tipoAtividade": "",
-            "pontosAtividade": "7.98",
-            "caloriasAtividade": "451",
-            "passosAtividade": 0,
-            "duracaoAtividade": "95",
-            "distanciaAtividade": "7.7",
             "dataAtividade": "03-10-2024"
         },
         {
@@ -1090,30 +1174,6 @@
             "passosAtividade": 0,
             "duracaoAtividade": "75",
             "distanciaAtividade": 0,
-            "dataAtividade": "03-10-2024"
-        },
-        {
-            "idUsuario": 885420,
-            "nomeUsuario": "Leticia",
-            "tituloTreino": "Traditional Strength Training",
-            "tipoAtividade": "",
-            "pontosAtividade": "4.58",
-            "caloriasAtividade": "111",
-            "passosAtividade": 0,
-            "duracaoAtividade": "28",
-            "distanciaAtividade": 0,
-            "dataAtividade": "03-10-2024"
-        },
-        {
-            "idUsuario": 885420,
-            "nomeUsuario": "Leticia",
-            "tituloTreino": "Walking",
-            "tipoAtividade": "",
-            "pontosAtividade": "1.16",
-            "caloriasAtividade": "47",
-            "passosAtividade": 0,
-            "duracaoAtividade": "19",
-            "distanciaAtividade": "1.12",
             "dataAtividade": "03-10-2024"
         },
         {
@@ -1189,18 +1249,6 @@
             "dataAtividade": "02-10-2024"
         },
         {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "Corrida ",
-            "tipoAtividade": "",
-            "pontosAtividade": "14.81",
-            "caloriasAtividade": "641",
-            "passosAtividade": 0,
-            "duracaoAtividade": "70",
-            "distanciaAtividade": "10.01",
-            "dataAtividade": "02-10-2024"
-        },
-        {
             "idUsuario": 354733,
             "nomeUsuario": "Milene",
             "tituloTreino": "Treinamento Funcional ",
@@ -1225,30 +1273,6 @@
             "dataAtividade": "02-10-2024"
         },
         {
-            "idUsuario": 979446,
-            "nomeUsuario": "Vinicius",
-            "tituloTreino": "Peito e posterior ",
-            "tipoAtividade": "",
-            "pontosAtividade": "9.52",
-            "caloriasAtividade": 0,
-            "passosAtividade": 0,
-            "duracaoAtividade": "60",
-            "distanciaAtividade": 0,
-            "dataAtividade": "01-10-2024"
-        },
-        {
-            "idUsuario": 979267,
-            "nomeUsuario": "Alexandre",
-            "tituloTreino": "Functional Strength Training",
-            "tipoAtividade": "",
-            "pontosAtividade": "28.67",
-            "caloriasAtividade": "890",
-            "passosAtividade": 0,
-            "duracaoAtividade": "149",
-            "distanciaAtividade": 0,
-            "dataAtividade": "01-10-2024"
-        },
-        {
             "idUsuario": 1057522,
             "nomeUsuario": "Sol",
             "tituloTreino": "Treino de \ud83d\udcaa\ud83c\udffb and academia lotada \ud83d\ude2e\u200d\ud83d\udca8",
@@ -1270,18 +1294,6 @@
             "passosAtividade": 0,
             "duracaoAtividade": "56",
             "distanciaAtividade": "1.1",
-            "dataAtividade": "01-10-2024"
-        },
-        {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "Treininho capenga - essa semana t\u00e1 \ud83e\uddb4",
-            "tipoAtividade": "",
-            "pontosAtividade": "14.99",
-            "caloriasAtividade": "362",
-            "passosAtividade": 0,
-            "duracaoAtividade": "94",
-            "distanciaAtividade": 0,
             "dataAtividade": "01-10-2024"
         },
         {
@@ -1329,18 +1341,6 @@
             "caloriasAtividade": "464",
             "passosAtividade": 0,
             "duracaoAtividade": "75",
-            "distanciaAtividade": 0,
-            "dataAtividade": "01-10-2024"
-        },
-        {
-            "idUsuario": 885420,
-            "nomeUsuario": "Leticia",
-            "tituloTreino": "Traditional Strength Training",
-            "tipoAtividade": "",
-            "pontosAtividade": "5.73",
-            "caloriasAtividade": "138",
-            "passosAtividade": 0,
-            "duracaoAtividade": "36",
             "distanciaAtividade": 0,
             "dataAtividade": "01-10-2024"
         },
@@ -1413,42 +1413,6 @@
             "caloriasAtividade": "414",
             "passosAtividade": 0,
             "duracaoAtividade": "60",
-            "distanciaAtividade": 0,
-            "dataAtividade": "30-09-2024"
-        },
-        {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "Corrida sofrida hoje \ud83d\ude2e\u200d\ud83d\udca8",
-            "tipoAtividade": "",
-            "pontosAtividade": "14.81",
-            "caloriasAtividade": "615",
-            "passosAtividade": 0,
-            "duracaoAtividade": "60",
-            "distanciaAtividade": "10.01",
-            "dataAtividade": "30-09-2024"
-        },
-        {
-            "idUsuario": 885420,
-            "nomeUsuario": "Leticia",
-            "tituloTreino": "Traditional Strength Training",
-            "tipoAtividade": "",
-            "pontosAtividade": "9.68",
-            "caloriasAtividade": "223",
-            "passosAtividade": 0,
-            "duracaoAtividade": "60",
-            "distanciaAtividade": 0,
-            "dataAtividade": "30-09-2024"
-        },
-        {
-            "idUsuario": 979446,
-            "nomeUsuario": "Vinicius",
-            "tituloTreino": "Costas",
-            "tipoAtividade": "",
-            "pontosAtividade": "8.73",
-            "caloriasAtividade": 0,
-            "passosAtividade": 0,
-            "duracaoAtividade": "55",
             "distanciaAtividade": 0,
             "dataAtividade": "30-09-2024"
         },
@@ -1537,18 +1501,6 @@
             "dataAtividade": "28-09-2024"
         },
         {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "Ombros + 40\u2019 de el\u00edptico ",
-            "tipoAtividade": "",
-            "pontosAtividade": "15.23",
-            "caloriasAtividade": "407",
-            "passosAtividade": 0,
-            "duracaoAtividade": "90",
-            "distanciaAtividade": 0,
-            "dataAtividade": "28-09-2024"
-        },
-        {
             "idUsuario": 804592,
             "nomeUsuario": "Pedro",
             "tituloTreino": "Dia de costas \ud83d\udcaa",
@@ -1597,42 +1549,6 @@
             "dataAtividade": "28-09-2024"
         },
         {
-            "idUsuario": 979446,
-            "nomeUsuario": "Vinicius",
-            "tituloTreino": "Atletismo ",
-            "tipoAtividade": "",
-            "pontosAtividade": "7.5",
-            "caloriasAtividade": "300",
-            "passosAtividade": 0,
-            "duracaoAtividade": "60",
-            "distanciaAtividade": "1.3",
-            "dataAtividade": "28-09-2024"
-        },
-        {
-            "idUsuario": 979267,
-            "nomeUsuario": "Alexandre",
-            "tituloTreino": "Functional Strength Training",
-            "tipoAtividade": "",
-            "pontosAtividade": "1.26",
-            "caloriasAtividade": "48",
-            "passosAtividade": 0,
-            "duracaoAtividade": "6",
-            "distanciaAtividade": 0,
-            "dataAtividade": "27-09-2024"
-        },
-        {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "Caminhada com a \ud83d\udc36",
-            "tipoAtividade": "",
-            "pontosAtividade": "7.3",
-            "caloriasAtividade": "461",
-            "passosAtividade": 0,
-            "duracaoAtividade": "94",
-            "distanciaAtividade": "7.05",
-            "dataAtividade": "27-09-2024"
-        },
-        {
             "idUsuario": 430994,
             "nomeUsuario": "Cecilia",
             "tituloTreino": "\ud83e\ude9c\ud83d\udcaa\ud83c\udffc",
@@ -1654,18 +1570,6 @@
             "passosAtividade": "4.874",
             "duracaoAtividade": "33",
             "distanciaAtividade": "4.77",
-            "dataAtividade": "27-09-2024"
-        },
-        {
-            "idUsuario": 885420,
-            "nomeUsuario": "Leticia",
-            "tituloTreino": "Traditional Strength Training",
-            "tipoAtividade": "",
-            "pontosAtividade": "5.38",
-            "caloriasAtividade": "129",
-            "passosAtividade": 0,
-            "duracaoAtividade": "33",
-            "distanciaAtividade": 0,
             "dataAtividade": "27-09-2024"
         },
         {
@@ -1705,18 +1609,6 @@
             "dataAtividade": "27-09-2024"
         },
         {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "Aquecimento + teste de 1600m",
-            "tipoAtividade": "",
-            "pontosAtividade": "5",
-            "caloriasAtividade": "180",
-            "passosAtividade": 0,
-            "duracaoAtividade": "19",
-            "distanciaAtividade": "3.38",
-            "dataAtividade": "27-09-2024"
-        },
-        {
             "idUsuario": 1057522,
             "nomeUsuario": "Sol",
             "tituloTreino": "Muay\ud83d\udd25\ud83e\uddb5\ud83e\udd4aThai",
@@ -1727,42 +1619,6 @@
             "duracaoAtividade": "76",
             "distanciaAtividade": 0,
             "dataAtividade": "27-09-2024"
-        },
-        {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "Leg day + 25\u2019 de el\u00edptico ",
-            "tipoAtividade": "",
-            "pontosAtividade": "17.52",
-            "caloriasAtividade": "621",
-            "passosAtividade": 0,
-            "duracaoAtividade": "115",
-            "distanciaAtividade": 0,
-            "dataAtividade": "26-09-2024"
-        },
-        {
-            "idUsuario": 979267,
-            "nomeUsuario": "Alexandre",
-            "tituloTreino": "Functional Strength Training",
-            "tipoAtividade": "",
-            "pontosAtividade": "7.05",
-            "caloriasAtividade": "328",
-            "passosAtividade": 0,
-            "duracaoAtividade": "36",
-            "distanciaAtividade": 0,
-            "dataAtividade": "26-09-2024"
-        },
-        {
-            "idUsuario": 885420,
-            "nomeUsuario": "Leticia",
-            "tituloTreino": "Traditional Strength Training",
-            "tipoAtividade": "",
-            "pontosAtividade": "8.37",
-            "caloriasAtividade": "234",
-            "passosAtividade": 0,
-            "duracaoAtividade": "52",
-            "distanciaAtividade": 0,
-            "dataAtividade": "26-09-2024"
         },
         {
             "idUsuario": 804592,
@@ -1813,18 +1669,6 @@
             "dataAtividade": "26-09-2024"
         },
         {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "70\u2019 de el\u00edptico ",
-            "tipoAtividade": "",
-            "pontosAtividade": "12.76",
-            "caloriasAtividade": "608",
-            "passosAtividade": 0,
-            "duracaoAtividade": "70",
-            "distanciaAtividade": 0,
-            "dataAtividade": "25-09-2024"
-        },
-        {
             "idUsuario": 1057522,
             "nomeUsuario": "Sol",
             "tituloTreino": "Treino de pernas \ud83e\uddb5 \u26a1\ufe0f",
@@ -1870,18 +1714,6 @@
             "passosAtividade": "3.328",
             "duracaoAtividade": "21",
             "distanciaAtividade": "3.09",
-            "dataAtividade": "25-09-2024"
-        },
-        {
-            "idUsuario": 885420,
-            "nomeUsuario": "Leticia",
-            "tituloTreino": "Traditional Strength Training",
-            "tipoAtividade": "",
-            "pontosAtividade": "4.82",
-            "caloriasAtividade": "163",
-            "passosAtividade": 0,
-            "duracaoAtividade": "30",
-            "distanciaAtividade": 0,
             "dataAtividade": "25-09-2024"
         },
         {
@@ -1957,42 +1789,6 @@
             "dataAtividade": "25-09-2024"
         },
         {
-            "idUsuario": 979267,
-            "nomeUsuario": "Alexandre",
-            "tituloTreino": "Walking",
-            "tipoAtividade": "",
-            "pontosAtividade": "3.24",
-            "caloriasAtividade": "250",
-            "passosAtividade": 0,
-            "duracaoAtividade": "36",
-            "distanciaAtividade": "3.12",
-            "dataAtividade": "24-09-2024"
-        },
-        {
-            "idUsuario": 979267,
-            "nomeUsuario": "Alexandre",
-            "tituloTreino": "Other",
-            "tipoAtividade": "",
-            "pontosAtividade": "5.45",
-            "caloriasAtividade": "308",
-            "passosAtividade": 0,
-            "duracaoAtividade": "43",
-            "distanciaAtividade": 0,
-            "dataAtividade": "24-09-2024"
-        },
-        {
-            "idUsuario": 885420,
-            "nomeUsuario": "Leticia",
-            "tituloTreino": "Elliptical",
-            "tipoAtividade": "",
-            "pontosAtividade": "4.22",
-            "caloriasAtividade": "181",
-            "passosAtividade": 0,
-            "duracaoAtividade": "23",
-            "distanciaAtividade": 0,
-            "dataAtividade": "24-09-2024"
-        },
-        {
             "idUsuario": 804592,
             "nomeUsuario": "Pedro",
             "tituloTreino": "Leg day",
@@ -2005,18 +1801,6 @@
             "dataAtividade": "24-09-2024"
         },
         {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "Leg day",
-            "tipoAtividade": "",
-            "pontosAtividade": "17.35",
-            "caloriasAtividade": "435",
-            "passosAtividade": 0,
-            "duracaoAtividade": "109",
-            "distanciaAtividade": 0,
-            "dataAtividade": "24-09-2024"
-        },
-        {
             "idUsuario": 430994,
             "nomeUsuario": "Cecilia",
             "tituloTreino": "\ud83e\ude9c+ \ud83d\udcaa\ud83c\udffc+\ud83c\udf07",
@@ -2025,18 +1809,6 @@
             "caloriasAtividade": "363",
             "passosAtividade": 0,
             "duracaoAtividade": "81",
-            "distanciaAtividade": 0,
-            "dataAtividade": "24-09-2024"
-        },
-        {
-            "idUsuario": 885420,
-            "nomeUsuario": "Leticia",
-            "tituloTreino": "Traditional Strength Training",
-            "tipoAtividade": "",
-            "pontosAtividade": "7.69",
-            "caloriasAtividade": "257",
-            "passosAtividade": 0,
-            "duracaoAtividade": "48",
             "distanciaAtividade": 0,
             "dataAtividade": "24-09-2024"
         },
@@ -2074,18 +1846,6 @@
             "passosAtividade": 0,
             "duracaoAtividade": "19",
             "distanciaAtividade": "2.1",
-            "dataAtividade": "23-09-2024"
-        },
-        {
-            "idUsuario": 979446,
-            "nomeUsuario": "Vinicius",
-            "tituloTreino": "Peito e biceps",
-            "tipoAtividade": "",
-            "pontosAtividade": "11.11",
-            "caloriasAtividade": 0,
-            "passosAtividade": 0,
-            "duracaoAtividade": "70",
-            "distanciaAtividade": 0,
             "dataAtividade": "23-09-2024"
         },
         {
@@ -2149,30 +1909,6 @@
             "dataAtividade": "22-09-2024"
         },
         {
-            "idUsuario": 885420,
-            "nomeUsuario": "Leticia",
-            "tituloTreino": "Derrota era fato. Fui em busca da humilha\u00e7\u00e3o! ",
-            "tipoAtividade": "",
-            "pontosAtividade": "11.41",
-            "caloriasAtividade": 0,
-            "passosAtividade": 0,
-            "duracaoAtividade": "65",
-            "distanciaAtividade": 0,
-            "dataAtividade": "22-09-2024"
-        },
-        {
-            "idUsuario": 885420,
-            "nomeUsuario": "Leticia",
-            "tituloTreino": "Tennis",
-            "tipoAtividade": "",
-            "pontosAtividade": "1.63",
-            "caloriasAtividade": "44",
-            "passosAtividade": 0,
-            "duracaoAtividade": "9",
-            "distanciaAtividade": "0.32",
-            "dataAtividade": "22-09-2024"
-        },
-        {
             "idUsuario": 430994,
             "nomeUsuario": "Cecilia",
             "tituloTreino": "Hoje foi com tudo!!! Escada e bracitos",
@@ -2182,42 +1918,6 @@
             "passosAtividade": 0,
             "duracaoAtividade": "82",
             "distanciaAtividade": 0,
-            "dataAtividade": "22-09-2024"
-        },
-        {
-            "idUsuario": 885420,
-            "nomeUsuario": "Leticia",
-            "tituloTreino": "Traditional Strength Training",
-            "tipoAtividade": "",
-            "pontosAtividade": "6.92",
-            "caloriasAtividade": "163",
-            "passosAtividade": 0,
-            "duracaoAtividade": "43",
-            "distanciaAtividade": 0,
-            "dataAtividade": "22-09-2024"
-        },
-        {
-            "idUsuario": 885420,
-            "nomeUsuario": "Leticia",
-            "tituloTreino": "Walking",
-            "tipoAtividade": "",
-            "pontosAtividade": "1.09",
-            "caloriasAtividade": "60",
-            "passosAtividade": 0,
-            "duracaoAtividade": "24",
-            "distanciaAtividade": "1.06",
-            "dataAtividade": "22-09-2024"
-        },
-        {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "Primeiro p\u00f3dio na corrida \ud83e\udd79\u2764\ufe0f\ud83d\ude2e\u200d\ud83d\udca8",
-            "tipoAtividade": "",
-            "pontosAtividade": "15.08",
-            "caloriasAtividade": "594",
-            "passosAtividade": 0,
-            "duracaoAtividade": "55",
-            "distanciaAtividade": "10.19",
             "dataAtividade": "22-09-2024"
         },
         {
@@ -2341,18 +2041,6 @@
             "dataAtividade": "20-09-2024"
         },
         {
-            "idUsuario": 885420,
-            "nomeUsuario": "Leticia",
-            "tituloTreino": "Traditional Strength Training",
-            "tipoAtividade": "",
-            "pontosAtividade": "7.95",
-            "caloriasAtividade": "206",
-            "passosAtividade": 0,
-            "duracaoAtividade": "50",
-            "distanciaAtividade": 0,
-            "dataAtividade": "20-09-2024"
-        },
-        {
             "idUsuario": 804592,
             "nomeUsuario": "Pedro",
             "tituloTreino": "Caminhada leve de sexta",
@@ -2397,54 +2085,6 @@
             "caloriasAtividade": 0,
             "passosAtividade": 0,
             "duracaoAtividade": "44",
-            "distanciaAtividade": 0,
-            "dataAtividade": "19-09-2024"
-        },
-        {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "Costas express ",
-            "tipoAtividade": "",
-            "pontosAtividade": "6.97",
-            "caloriasAtividade": "129",
-            "passosAtividade": 0,
-            "duracaoAtividade": "43",
-            "distanciaAtividade": 0,
-            "dataAtividade": "19-09-2024"
-        },
-        {
-            "idUsuario": 979446,
-            "nomeUsuario": "Vinicius",
-            "tituloTreino": "Costas e tr\u00edceps ",
-            "tipoAtividade": "",
-            "pontosAtividade": "9.21",
-            "caloriasAtividade": 0,
-            "passosAtividade": 0,
-            "duracaoAtividade": "58",
-            "distanciaAtividade": 0,
-            "dataAtividade": "19-09-2024"
-        },
-        {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "Funcional ",
-            "tipoAtividade": "",
-            "pontosAtividade": "5.97",
-            "caloriasAtividade": "202",
-            "passosAtividade": 0,
-            "duracaoAtividade": "31",
-            "distanciaAtividade": 0,
-            "dataAtividade": "19-09-2024"
-        },
-        {
-            "idUsuario": 885420,
-            "nomeUsuario": "Leticia",
-            "tituloTreino": "Traditional Strength Training",
-            "tipoAtividade": "",
-            "pontosAtividade": "9.23",
-            "caloriasAtividade": "251",
-            "passosAtividade": 0,
-            "duracaoAtividade": "58",
             "distanciaAtividade": 0,
             "dataAtividade": "19-09-2024"
         },
@@ -2509,18 +2149,6 @@
             "dataAtividade": "18-09-2024"
         },
         {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "20\u2019 escada + 40\u2019 funcional ",
-            "tipoAtividade": "",
-            "pontosAtividade": "10.34",
-            "caloriasAtividade": "446",
-            "passosAtividade": 0,
-            "duracaoAtividade": "60",
-            "distanciaAtividade": 0,
-            "dataAtividade": "18-09-2024"
-        },
-        {
             "idUsuario": 354733,
             "nomeUsuario": "Milene",
             "tituloTreino": "Caminhada ",
@@ -2530,18 +2158,6 @@
             "passosAtividade": 0,
             "duracaoAtividade": "63",
             "distanciaAtividade": "4.49",
-            "dataAtividade": "18-09-2024"
-        },
-        {
-            "idUsuario": 885420,
-            "nomeUsuario": "Leticia",
-            "tituloTreino": "Traditional Strength Training",
-            "tipoAtividade": "",
-            "pontosAtividade": "9.86",
-            "caloriasAtividade": "252",
-            "passosAtividade": 0,
-            "duracaoAtividade": "62",
-            "distanciaAtividade": 0,
             "dataAtividade": "18-09-2024"
         },
         {
@@ -2593,18 +2209,6 @@
             "dataAtividade": "17-09-2024"
         },
         {
-            "idUsuario": 885420,
-            "nomeUsuario": "Leticia",
-            "tituloTreino": "Running",
-            "tipoAtividade": "",
-            "pontosAtividade": "6.93",
-            "caloriasAtividade": "310",
-            "passosAtividade": 0,
-            "duracaoAtividade": "36",
-            "distanciaAtividade": "4.68",
-            "dataAtividade": "17-09-2024"
-        },
-        {
             "idUsuario": 804592,
             "nomeUsuario": "Pedro",
             "tituloTreino": "Peito e ombro",
@@ -2629,30 +2233,6 @@
             "dataAtividade": "17-09-2024"
         },
         {
-            "idUsuario": 979446,
-            "nomeUsuario": "Vinicius",
-            "tituloTreino": "Peito e biceps",
-            "tipoAtividade": "",
-            "pontosAtividade": "9.21",
-            "caloriasAtividade": 0,
-            "passosAtividade": 0,
-            "duracaoAtividade": "58",
-            "distanciaAtividade": 0,
-            "dataAtividade": "16-09-2024"
-        },
-        {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "Leg day ",
-            "tipoAtividade": "",
-            "pontosAtividade": "15.56",
-            "caloriasAtividade": "469",
-            "passosAtividade": 0,
-            "duracaoAtividade": "98",
-            "distanciaAtividade": 0,
-            "dataAtividade": "16-09-2024"
-        },
-        {
             "idUsuario": 354733,
             "nomeUsuario": "Milene",
             "tituloTreino": "Nata\u00e7\u00e3o ",
@@ -2674,18 +2254,6 @@
             "passosAtividade": 0,
             "duracaoAtividade": "97",
             "distanciaAtividade": "4.33",
-            "dataAtividade": "16-09-2024"
-        },
-        {
-            "idUsuario": 885420,
-            "nomeUsuario": "Leticia",
-            "tituloTreino": "Traditional Strength Training",
-            "tipoAtividade": "",
-            "pontosAtividade": "8.74",
-            "caloriasAtividade": "204",
-            "passosAtividade": 0,
-            "duracaoAtividade": "55",
-            "distanciaAtividade": 0,
             "dataAtividade": "16-09-2024"
         },
         {
@@ -2737,18 +2305,6 @@
             "dataAtividade": "15-09-2024"
         },
         {
-            "idUsuario": 885420,
-            "nomeUsuario": "Leticia",
-            "tituloTreino": "Walking",
-            "tipoAtividade": "",
-            "pontosAtividade": "1.18",
-            "caloriasAtividade": "62",
-            "passosAtividade": 0,
-            "duracaoAtividade": "30",
-            "distanciaAtividade": "1.14",
-            "dataAtividade": "15-09-2024"
-        },
-        {
             "idUsuario": 805183,
             "nomeUsuario": "Leonardo",
             "tituloTreino": "Corrida Pr\u00f3 Animal",
@@ -2771,30 +2327,6 @@
             "duracaoAtividade": "73",
             "distanciaAtividade": "5.26",
             "dataAtividade": "15-09-2024"
-        },
-        {
-            "idUsuario": 979446,
-            "nomeUsuario": "Vinicius",
-            "tituloTreino": "Night run campinas",
-            "tipoAtividade": "",
-            "pontosAtividade": "14.79",
-            "caloriasAtividade": 0,
-            "passosAtividade": 0,
-            "duracaoAtividade": "57",
-            "distanciaAtividade": "10",
-            "dataAtividade": "14-09-2024"
-        },
-        {
-            "idUsuario": 885420,
-            "nomeUsuario": "Leticia",
-            "tituloTreino": "Traditional Strength Training",
-            "tipoAtividade": "",
-            "pontosAtividade": "10.02",
-            "caloriasAtividade": "236",
-            "passosAtividade": 0,
-            "duracaoAtividade": "63",
-            "distanciaAtividade": 0,
-            "dataAtividade": "14-09-2024"
         },
         {
             "idUsuario": 430994,
@@ -2833,18 +2365,6 @@
             "dataAtividade": "14-09-2024"
         },
         {
-            "idUsuario": 885420,
-            "nomeUsuario": "Leticia",
-            "tituloTreino": "Traditional Strength Training",
-            "tipoAtividade": "",
-            "pontosAtividade": "8.22",
-            "caloriasAtividade": "197",
-            "passosAtividade": 0,
-            "duracaoAtividade": "51",
-            "distanciaAtividade": 0,
-            "dataAtividade": "13-09-2024"
-        },
-        {
             "idUsuario": 805183,
             "nomeUsuario": "Leonardo",
             "tituloTreino": "Arms + Forearms",
@@ -2866,18 +2386,6 @@
             "passosAtividade": 0,
             "duracaoAtividade": "96",
             "distanciaAtividade": 0,
-            "dataAtividade": "13-09-2024"
-        },
-        {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "Corrida",
-            "tipoAtividade": "",
-            "pontosAtividade": "14.8",
-            "caloriasAtividade": "606",
-            "passosAtividade": 0,
-            "duracaoAtividade": "66",
-            "distanciaAtividade": "10",
             "dataAtividade": "13-09-2024"
         },
         {
@@ -2977,18 +2485,6 @@
             "dataAtividade": "12-09-2024"
         },
         {
-            "idUsuario": 885420,
-            "nomeUsuario": "Leticia",
-            "tituloTreino": "Core Training",
-            "tipoAtividade": "",
-            "pontosAtividade": "2.96",
-            "caloriasAtividade": "39",
-            "passosAtividade": 0,
-            "duracaoAtividade": "19",
-            "distanciaAtividade": 0,
-            "dataAtividade": "11-09-2024"
-        },
-        {
             "idUsuario": 815453,
             "nomeUsuario": "Juliana",
             "tituloTreino": "Treininho p\u00f3s torneio ",
@@ -2998,18 +2494,6 @@
             "passosAtividade": 0,
             "duracaoAtividade": "70",
             "distanciaAtividade": 0,
-            "dataAtividade": "11-09-2024"
-        },
-        {
-            "idUsuario": 885420,
-            "nomeUsuario": "Leticia",
-            "tituloTreino": "Walking",
-            "tipoAtividade": "",
-            "pontosAtividade": "2.12",
-            "caloriasAtividade": "100",
-            "passosAtividade": 0,
-            "duracaoAtividade": "40",
-            "distanciaAtividade": "2.05",
             "dataAtividade": "11-09-2024"
         },
         {
@@ -3049,18 +2533,6 @@
             "dataAtividade": "11-09-2024"
         },
         {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "Corrida ",
-            "tipoAtividade": "",
-            "pontosAtividade": "14.81",
-            "caloriasAtividade": "645",
-            "passosAtividade": 0,
-            "duracaoAtividade": "67",
-            "distanciaAtividade": "10.01",
-            "dataAtividade": "11-09-2024"
-        },
-        {
             "idUsuario": 317341,
             "nomeUsuario": "Bruno",
             "tituloTreino": "Cambitos",
@@ -3097,18 +2569,6 @@
             "dataAtividade": "11-09-2024"
         },
         {
-            "idUsuario": 885420,
-            "nomeUsuario": "Leticia",
-            "tituloTreino": "Treino v\u00f4lei !",
-            "tipoAtividade": "",
-            "pontosAtividade": "20.54",
-            "caloriasAtividade": 0,
-            "passosAtividade": 0,
-            "duracaoAtividade": "115",
-            "distanciaAtividade": 0,
-            "dataAtividade": "11-09-2024"
-        },
-        {
             "idUsuario": 815453,
             "nomeUsuario": "Juliana",
             "tituloTreino": "No calorzinhooo",
@@ -3117,18 +2577,6 @@
             "caloriasAtividade": "636",
             "passosAtividade": 0,
             "duracaoAtividade": "120",
-            "distanciaAtividade": 0,
-            "dataAtividade": "10-09-2024"
-        },
-        {
-            "idUsuario": 885420,
-            "nomeUsuario": "Leticia",
-            "tituloTreino": "Traditional Strength Training",
-            "tipoAtividade": "",
-            "pontosAtividade": "9.91",
-            "caloriasAtividade": "300",
-            "passosAtividade": 0,
-            "duracaoAtividade": "62",
             "distanciaAtividade": 0,
             "dataAtividade": "10-09-2024"
         },
@@ -3157,18 +2605,6 @@
             "dataAtividade": "10-09-2024"
         },
         {
-            "idUsuario": 979446,
-            "nomeUsuario": "Vinicius",
-            "tituloTreino": "Costas e triceps",
-            "tipoAtividade": "",
-            "pontosAtividade": "9.52",
-            "caloriasAtividade": 0,
-            "passosAtividade": 0,
-            "duracaoAtividade": "60",
-            "distanciaAtividade": 0,
-            "dataAtividade": "10-09-2024"
-        },
-        {
             "idUsuario": 430994,
             "nomeUsuario": "Cecilia",
             "tituloTreino": "Corrida + inferiores",
@@ -3193,18 +2629,6 @@
             "dataAtividade": "10-09-2024"
         },
         {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "Treininho com muita pregui\u00e7a hoje ",
-            "tipoAtividade": "",
-            "pontosAtividade": "15.12",
-            "caloriasAtividade": "323",
-            "passosAtividade": 0,
-            "duracaoAtividade": "95",
-            "distanciaAtividade": 0,
-            "dataAtividade": "10-09-2024"
-        },
-        {
             "idUsuario": 316490,
             "nomeUsuario": "Marcos",
             "tituloTreino": "Muscula\u00e7\u00e3o - Voltei das f\u00e9rias",
@@ -3225,30 +2649,6 @@
             "caloriasAtividade": "595",
             "passosAtividade": 0,
             "duracaoAtividade": "74",
-            "distanciaAtividade": 0,
-            "dataAtividade": "09-09-2024"
-        },
-        {
-            "idUsuario": 979446,
-            "nomeUsuario": "Vinicius",
-            "tituloTreino": "Perna express ",
-            "tipoAtividade": "",
-            "pontosAtividade": "9.52",
-            "caloriasAtividade": 0,
-            "passosAtividade": 0,
-            "duracaoAtividade": "60",
-            "distanciaAtividade": 0,
-            "dataAtividade": "09-09-2024"
-        },
-        {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "Back day",
-            "tipoAtividade": "",
-            "pontosAtividade": "9.7",
-            "caloriasAtividade": "177",
-            "passosAtividade": 0,
-            "duracaoAtividade": "61",
             "distanciaAtividade": 0,
             "dataAtividade": "09-09-2024"
         },
@@ -3289,18 +2689,6 @@
             "dataAtividade": "09-09-2024"
         },
         {
-            "idUsuario": 885420,
-            "nomeUsuario": "Leticia",
-            "tituloTreino": "Traditional Strength Training - pernitas",
-            "tipoAtividade": "",
-            "pontosAtividade": "8.63",
-            "caloriasAtividade": "219",
-            "passosAtividade": 0,
-            "duracaoAtividade": "54",
-            "distanciaAtividade": 0,
-            "dataAtividade": "09-09-2024"
-        },
-        {
             "idUsuario": 430994,
             "nomeUsuario": "Cecilia",
             "tituloTreino": "Bracitos",
@@ -3335,18 +2723,6 @@
             "duracaoAtividade": "75",
             "distanciaAtividade": 0,
             "dataAtividade": "09-09-2024"
-        },
-        {
-            "idUsuario": 885420,
-            "nomeUsuario": "Leticia",
-            "tituloTreino": "Traditional Strength Training",
-            "tipoAtividade": "",
-            "pontosAtividade": "4",
-            "caloriasAtividade": "108",
-            "passosAtividade": 0,
-            "duracaoAtividade": "25",
-            "distanciaAtividade": 0,
-            "dataAtividade": "08-09-2024"
         },
         {
             "idUsuario": 804592,
@@ -3385,18 +2761,6 @@
             "dataAtividade": "08-09-2024"
         },
         {
-            "idUsuario": 885420,
-            "nomeUsuario": "Leticia",
-            "tituloTreino": "Walking",
-            "tipoAtividade": "",
-            "pontosAtividade": "4.8",
-            "caloriasAtividade": "189",
-            "passosAtividade": 0,
-            "duracaoAtividade": "70",
-            "distanciaAtividade": "4.63",
-            "dataAtividade": "08-09-2024"
-        },
-        {
             "idUsuario": 805183,
             "nomeUsuario": "Leonardo",
             "tituloTreino": "Trotezinho \ud83c\udfc3\ud83c\udfc3\u200d\u2642\ufe0f",
@@ -3409,18 +2773,6 @@
             "dataAtividade": "08-09-2024"
         },
         {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "Corrida ",
-            "tipoAtividade": "",
-            "pontosAtividade": "14.82",
-            "caloriasAtividade": "596",
-            "passosAtividade": 0,
-            "duracaoAtividade": "60",
-            "distanciaAtividade": "10.02",
-            "dataAtividade": "08-09-2024"
-        },
-        {
             "idUsuario": 317304,
             "nomeUsuario": "Daniel",
             "tituloTreino": "Ombro + Core",
@@ -3429,30 +2781,6 @@
             "caloriasAtividade": "548",
             "passosAtividade": 0,
             "duracaoAtividade": "76",
-            "distanciaAtividade": 0,
-            "dataAtividade": "07-09-2024"
-        },
-        {
-            "idUsuario": 979446,
-            "nomeUsuario": "Vinicius",
-            "tituloTreino": "Peito e biceps",
-            "tipoAtividade": "",
-            "pontosAtividade": "11.9",
-            "caloriasAtividade": 0,
-            "passosAtividade": 0,
-            "duracaoAtividade": "75",
-            "distanciaAtividade": 0,
-            "dataAtividade": "07-09-2024"
-        },
-        {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "Leg day ",
-            "tipoAtividade": "",
-            "pontosAtividade": "20.08",
-            "caloriasAtividade": "471",
-            "passosAtividade": 0,
-            "duracaoAtividade": "126",
             "distanciaAtividade": 0,
             "dataAtividade": "07-09-2024"
         },
@@ -3491,42 +2819,6 @@
             "duracaoAtividade": "101",
             "distanciaAtividade": 0,
             "dataAtividade": "07-09-2024"
-        },
-        {
-            "idUsuario": 979446,
-            "nomeUsuario": "Vinicius",
-            "tituloTreino": "Atletismo",
-            "tipoAtividade": "",
-            "pontosAtividade": "15",
-            "caloriasAtividade": 0,
-            "passosAtividade": 0,
-            "duracaoAtividade": "60",
-            "distanciaAtividade": "1.35",
-            "dataAtividade": "06-09-2024"
-        },
-        {
-            "idUsuario": 885420,
-            "nomeUsuario": "Leticia",
-            "tituloTreino": "Traditional Strength Training",
-            "tipoAtividade": "",
-            "pontosAtividade": "8.85",
-            "caloriasAtividade": "246",
-            "passosAtividade": 0,
-            "duracaoAtividade": "55",
-            "distanciaAtividade": 0,
-            "dataAtividade": "06-09-2024"
-        },
-        {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "Ombros e tr\u00edceps ",
-            "tipoAtividade": "",
-            "pontosAtividade": "14.3",
-            "caloriasAtividade": "339",
-            "passosAtividade": 0,
-            "duracaoAtividade": "90",
-            "distanciaAtividade": 0,
-            "dataAtividade": "06-09-2024"
         },
         {
             "idUsuario": 805183,
@@ -3577,18 +2869,6 @@
             "dataAtividade": "06-09-2024"
         },
         {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "Corrida ",
-            "tipoAtividade": "",
-            "pontosAtividade": "14.81",
-            "caloriasAtividade": "587",
-            "passosAtividade": 0,
-            "duracaoAtividade": "58",
-            "distanciaAtividade": "10.01",
-            "dataAtividade": "06-09-2024"
-        },
-        {
             "idUsuario": 1057522,
             "nomeUsuario": "Sol",
             "tituloTreino": "Treino \ud83d\udcaa\ud83c\udffb+ cardio ",
@@ -3597,18 +2877,6 @@
             "caloriasAtividade": "653",
             "passosAtividade": 0,
             "duracaoAtividade": "116",
-            "distanciaAtividade": 0,
-            "dataAtividade": "05-09-2024"
-        },
-        {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "Bike indoor",
-            "tipoAtividade": "",
-            "pontosAtividade": "10.05",
-            "caloriasAtividade": "251",
-            "passosAtividade": 0,
-            "duracaoAtividade": "50",
             "distanciaAtividade": 0,
             "dataAtividade": "05-09-2024"
         },
@@ -3697,42 +2965,6 @@
             "dataAtividade": "04-09-2024"
         },
         {
-            "idUsuario": 979446,
-            "nomeUsuario": "Vinicius",
-            "tituloTreino": "Corridinha ",
-            "tipoAtividade": "",
-            "pontosAtividade": "8.79",
-            "caloriasAtividade": 0,
-            "passosAtividade": 0,
-            "duracaoAtividade": "32",
-            "distanciaAtividade": "5.94",
-            "dataAtividade": "04-09-2024"
-        },
-        {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "Treininho de costas express",
-            "tipoAtividade": "",
-            "pontosAtividade": "8.34",
-            "caloriasAtividade": "125",
-            "passosAtividade": 0,
-            "duracaoAtividade": "52",
-            "distanciaAtividade": 0,
-            "dataAtividade": "04-09-2024"
-        },
-        {
-            "idUsuario": 885420,
-            "nomeUsuario": "Leticia",
-            "tituloTreino": "Traditional Strength Training",
-            "tipoAtividade": "",
-            "pontosAtividade": "5.13",
-            "caloriasAtividade": "122",
-            "passosAtividade": 0,
-            "duracaoAtividade": "32",
-            "distanciaAtividade": 0,
-            "dataAtividade": "04-09-2024"
-        },
-        {
             "idUsuario": 815453,
             "nomeUsuario": "Juliana",
             "tituloTreino": "Treino pro campeonato",
@@ -3742,18 +2974,6 @@
             "passosAtividade": 0,
             "duracaoAtividade": "60",
             "distanciaAtividade": 0,
-            "dataAtividade": "04-09-2024"
-        },
-        {
-            "idUsuario": 885420,
-            "nomeUsuario": "Leticia",
-            "tituloTreino": "Walking",
-            "tipoAtividade": "",
-            "pontosAtividade": "1.8",
-            "caloriasAtividade": "82",
-            "passosAtividade": 0,
-            "duracaoAtividade": "20",
-            "distanciaAtividade": "1.74",
             "dataAtividade": "04-09-2024"
         },
         {
@@ -3793,30 +3013,6 @@
             "dataAtividade": "04-09-2024"
         },
         {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "Corrida",
-            "tipoAtividade": "",
-            "pontosAtividade": "14.82",
-            "caloriasAtividade": "645",
-            "passosAtividade": 0,
-            "duracaoAtividade": "68",
-            "distanciaAtividade": "10.02",
-            "dataAtividade": "04-09-2024"
-        },
-        {
-            "idUsuario": 885420,
-            "nomeUsuario": "Leticia",
-            "tituloTreino": "Voleyzin cl\u00e1ssico !",
-            "tipoAtividade": "",
-            "pontosAtividade": 0,
-            "caloriasAtividade": 0,
-            "passosAtividade": 0,
-            "duracaoAtividade": 0,
-            "distanciaAtividade": 0,
-            "dataAtividade": "04-09-2024"
-        },
-        {
             "idUsuario": 821467,
             "nomeUsuario": "Leonardo",
             "tituloTreino": "Peitoral + ombros",
@@ -3841,18 +3037,6 @@
             "dataAtividade": "03-09-2024"
         },
         {
-            "idUsuario": 979446,
-            "nomeUsuario": "Vinicius",
-            "tituloTreino": "Costas e tr\u00edceps ",
-            "tipoAtividade": "",
-            "pontosAtividade": "9.52",
-            "caloriasAtividade": 0,
-            "passosAtividade": 0,
-            "duracaoAtividade": "60",
-            "distanciaAtividade": 0,
-            "dataAtividade": "03-09-2024"
-        },
-        {
             "idUsuario": 317341,
             "nomeUsuario": "Bruno",
             "tituloTreino": "Nata\u00e7\u00e3o em casa pq t\u00f4 sem aula no mar \ud83d\ude2e\u200d\ud83d\udca8",
@@ -3862,18 +3046,6 @@
             "passosAtividade": 0,
             "duracaoAtividade": "33",
             "distanciaAtividade": "1.15",
-            "dataAtividade": "03-09-2024"
-        },
-        {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "Bike indoor ",
-            "tipoAtividade": "",
-            "pontosAtividade": "12.21",
-            "caloriasAtividade": "302",
-            "passosAtividade": 0,
-            "duracaoAtividade": "61",
-            "distanciaAtividade": 0,
             "dataAtividade": "03-09-2024"
         },
         {
@@ -3913,30 +3085,6 @@
             "dataAtividade": "03-09-2024"
         },
         {
-            "idUsuario": 885420,
-            "nomeUsuario": "Leticia",
-            "tituloTreino": "Bracitios! ",
-            "tipoAtividade": "",
-            "pontosAtividade": "6.35",
-            "caloriasAtividade": 0,
-            "passosAtividade": 0,
-            "duracaoAtividade": "40",
-            "distanciaAtividade": 0,
-            "dataAtividade": "03-09-2024"
-        },
-        {
-            "idUsuario": 885420,
-            "nomeUsuario": "Leticia",
-            "tituloTreino": "Walking",
-            "tipoAtividade": "",
-            "pontosAtividade": "0.9",
-            "caloriasAtividade": "38",
-            "passosAtividade": 0,
-            "duracaoAtividade": "9",
-            "distanciaAtividade": "0.87",
-            "dataAtividade": "03-09-2024"
-        },
-        {
             "idUsuario": 317304,
             "nomeUsuario": "Daniel",
             "tituloTreino": "CrossFit ",
@@ -3957,30 +3105,6 @@
             "caloriasAtividade": 0,
             "passosAtividade": 0,
             "duracaoAtividade": "100",
-            "distanciaAtividade": 0,
-            "dataAtividade": "02-09-2024"
-        },
-        {
-            "idUsuario": 979446,
-            "nomeUsuario": "Vinicius",
-            "tituloTreino": "Leg express ",
-            "tipoAtividade": "",
-            "pontosAtividade": "8.73",
-            "caloriasAtividade": 0,
-            "passosAtividade": 0,
-            "duracaoAtividade": "55",
-            "distanciaAtividade": 0,
-            "dataAtividade": "02-09-2024"
-        },
-        {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "Bike indoor",
-            "tipoAtividade": "",
-            "pontosAtividade": "14.07",
-            "caloriasAtividade": "422",
-            "passosAtividade": 0,
-            "duracaoAtividade": "70",
             "distanciaAtividade": 0,
             "dataAtividade": "02-09-2024"
         },
@@ -4009,18 +3133,6 @@
             "dataAtividade": "02-09-2024"
         },
         {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "Corrida",
-            "tipoAtividade": "",
-            "pontosAtividade": "14.89",
-            "caloriasAtividade": "636",
-            "passosAtividade": 0,
-            "duracaoAtividade": "63",
-            "distanciaAtividade": "10.06",
-            "dataAtividade": "01-09-2024"
-        },
-        {
             "idUsuario": 805183,
             "nomeUsuario": "Leonardo",
             "tituloTreino": "Running - Volta USP ",
@@ -4030,30 +3142,6 @@
             "passosAtividade": 0,
             "duracaoAtividade": "32",
             "distanciaAtividade": "5.64",
-            "dataAtividade": "01-09-2024"
-        },
-        {
-            "idUsuario": 885420,
-            "nomeUsuario": "Leticia",
-            "tituloTreino": "Puro caldo da sofrencia",
-            "tipoAtividade": "",
-            "pontosAtividade": "10.61",
-            "caloriasAtividade": 0,
-            "passosAtividade": 0,
-            "duracaoAtividade": "35",
-            "distanciaAtividade": "0.6",
-            "dataAtividade": "01-09-2024"
-        },
-        {
-            "idUsuario": 885420,
-            "nomeUsuario": "Leticia",
-            "tituloTreino": "Traditional Strength Training - Cambitos !",
-            "tipoAtividade": "",
-            "pontosAtividade": "4.21",
-            "caloriasAtividade": "93",
-            "passosAtividade": 0,
-            "duracaoAtividade": "26",
-            "distanciaAtividade": 0,
             "dataAtividade": "01-09-2024"
         },
         {
@@ -4093,18 +3181,6 @@
             "dataAtividade": "01-09-2024"
         },
         {
-            "idUsuario": 885420,
-            "nomeUsuario": "Leticia",
-            "tituloTreino": "Traditional Strength Training - bra\u00e7os",
-            "tipoAtividade": "",
-            "pontosAtividade": "4.29",
-            "caloriasAtividade": "129",
-            "passosAtividade": 0,
-            "duracaoAtividade": "27",
-            "distanciaAtividade": 0,
-            "dataAtividade": "31-08-2024"
-        },
-        {
             "idUsuario": 317304,
             "nomeUsuario": "Daniel",
             "tituloTreino": "Muscula\u00e7\u00e3o",
@@ -4114,18 +3190,6 @@
             "passosAtividade": 0,
             "duracaoAtividade": "47",
             "distanciaAtividade": 0,
-            "dataAtividade": "31-08-2024"
-        },
-        {
-            "idUsuario": 885420,
-            "nomeUsuario": "Leticia",
-            "tituloTreino": "Walking",
-            "tipoAtividade": "",
-            "pontosAtividade": "5.29",
-            "caloriasAtividade": "226",
-            "passosAtividade": 0,
-            "duracaoAtividade": "74",
-            "distanciaAtividade": "5.11",
             "dataAtividade": "31-08-2024"
         },
         {
@@ -4151,18 +3215,6 @@
             "duracaoAtividade": "73",
             "distanciaAtividade": 0,
             "dataAtividade": "31-08-2024"
-        },
-        {
-            "idUsuario": 979446,
-            "nomeUsuario": "Vinicius",
-            "tituloTreino": "Costa e triceps",
-            "tipoAtividade": "",
-            "pontosAtividade": "8.73",
-            "caloriasAtividade": 0,
-            "passosAtividade": 0,
-            "duracaoAtividade": "55",
-            "distanciaAtividade": 0,
-            "dataAtividade": "30-08-2024"
         },
         {
             "idUsuario": 821467,
@@ -4225,18 +3277,6 @@
             "dataAtividade": "30-08-2024"
         },
         {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "Corrida regenerativa ",
-            "tipoAtividade": "",
-            "pontosAtividade": "11.85",
-            "caloriasAtividade": "501",
-            "passosAtividade": 0,
-            "duracaoAtividade": "49",
-            "distanciaAtividade": "8.01",
-            "dataAtividade": "30-08-2024"
-        },
-        {
             "idUsuario": 821467,
             "nomeUsuario": "Leonardo",
             "tituloTreino": "Legs + cardio",
@@ -4249,18 +3289,6 @@
             "dataAtividade": "29-08-2024"
         },
         {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "Leg day ",
-            "tipoAtividade": "",
-            "pontosAtividade": "13.91",
-            "caloriasAtividade": "477",
-            "passosAtividade": 0,
-            "duracaoAtividade": "87",
-            "distanciaAtividade": 0,
-            "dataAtividade": "29-08-2024"
-        },
-        {
             "idUsuario": 317341,
             "nomeUsuario": "Bruno",
             "tituloTreino": "Posterior e lombar",
@@ -4269,18 +3297,6 @@
             "caloriasAtividade": "417",
             "passosAtividade": 0,
             "duracaoAtividade": "53",
-            "distanciaAtividade": 0,
-            "dataAtividade": "29-08-2024"
-        },
-        {
-            "idUsuario": 885420,
-            "nomeUsuario": "Leticia",
-            "tituloTreino": "Elliptical",
-            "tipoAtividade": "",
-            "pontosAtividade": "5.25",
-            "caloriasAtividade": "135",
-            "passosAtividade": 0,
-            "duracaoAtividade": "28",
             "distanciaAtividade": 0,
             "dataAtividade": "29-08-2024"
         },
@@ -4345,42 +3361,6 @@
             "dataAtividade": "28-08-2024"
         },
         {
-            "idUsuario": 979446,
-            "nomeUsuario": "Vinicius",
-            "tituloTreino": "Peito e biceps",
-            "tipoAtividade": "",
-            "pontosAtividade": "10.32",
-            "caloriasAtividade": "257",
-            "passosAtividade": 0,
-            "duracaoAtividade": "65",
-            "distanciaAtividade": 0,
-            "dataAtividade": "28-08-2024"
-        },
-        {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "Corrida ",
-            "tipoAtividade": "",
-            "pontosAtividade": "10.38",
-            "caloriasAtividade": "393",
-            "passosAtividade": 0,
-            "duracaoAtividade": "39",
-            "distanciaAtividade": "7.02",
-            "dataAtividade": "28-08-2024"
-        },
-        {
-            "idUsuario": 885420,
-            "nomeUsuario": "Leticia",
-            "tituloTreino": "Traditional Strength Training",
-            "tipoAtividade": "",
-            "pontosAtividade": "2.7",
-            "caloriasAtividade": "67",
-            "passosAtividade": 0,
-            "duracaoAtividade": "16",
-            "distanciaAtividade": 0,
-            "dataAtividade": "28-08-2024"
-        },
-        {
             "idUsuario": 430994,
             "nomeUsuario": "Cecilia",
             "tituloTreino": "Letsss go \ud83c\udfcb\ud83c\udffb\u200d\u2640\ufe0f",
@@ -4389,18 +3369,6 @@
             "caloriasAtividade": "344",
             "passosAtividade": 0,
             "duracaoAtividade": "63",
-            "distanciaAtividade": 0,
-            "dataAtividade": "28-08-2024"
-        },
-        {
-            "idUsuario": 885420,
-            "nomeUsuario": "Leticia",
-            "tituloTreino": "Elliptical",
-            "tipoAtividade": "",
-            "pontosAtividade": "2.63",
-            "caloriasAtividade": "94",
-            "passosAtividade": 0,
-            "duracaoAtividade": "14",
             "distanciaAtividade": 0,
             "dataAtividade": "28-08-2024"
         },
@@ -4453,18 +3421,6 @@
             "dataAtividade": "28-08-2024"
         },
         {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "Leg day ",
-            "tipoAtividade": "",
-            "pontosAtividade": "15.41",
-            "caloriasAtividade": "406",
-            "passosAtividade": 0,
-            "duracaoAtividade": "97",
-            "distanciaAtividade": 0,
-            "dataAtividade": "27-08-2024"
-        },
-        {
             "idUsuario": 317341,
             "nomeUsuario": "Bruno",
             "tituloTreino": "Quads ",
@@ -4473,18 +3429,6 @@
             "caloriasAtividade": "502",
             "passosAtividade": 0,
             "duracaoAtividade": "55",
-            "distanciaAtividade": 0,
-            "dataAtividade": "27-08-2024"
-        },
-        {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "Bike indoor",
-            "tipoAtividade": "",
-            "pontosAtividade": "10.02",
-            "caloriasAtividade": "331",
-            "passosAtividade": 0,
-            "duracaoAtividade": "50",
             "distanciaAtividade": 0,
             "dataAtividade": "27-08-2024"
         },
@@ -4498,30 +3442,6 @@
             "passosAtividade": 0,
             "duracaoAtividade": "143",
             "distanciaAtividade": 0,
-            "dataAtividade": "27-08-2024"
-        },
-        {
-            "idUsuario": 885420,
-            "nomeUsuario": "Leticia",
-            "tituloTreino": "Traditional Strength Training",
-            "tipoAtividade": "",
-            "pontosAtividade": "3.87",
-            "caloriasAtividade": "94",
-            "passosAtividade": 0,
-            "duracaoAtividade": "24",
-            "distanciaAtividade": 0,
-            "dataAtividade": "27-08-2024"
-        },
-        {
-            "idUsuario": 885420,
-            "nomeUsuario": "Leticia",
-            "tituloTreino": "Walking",
-            "tipoAtividade": "",
-            "pontosAtividade": "0.7",
-            "caloriasAtividade": "33",
-            "passosAtividade": 0,
-            "duracaoAtividade": "11",
-            "distanciaAtividade": "0.68",
             "dataAtividade": "27-08-2024"
         },
         {
@@ -4559,54 +3479,6 @@
             "duracaoAtividade": "59",
             "distanciaAtividade": "1.08",
             "dataAtividade": "27-08-2024"
-        },
-        {
-            "idUsuario": 979446,
-            "nomeUsuario": "Vinicius",
-            "tituloTreino": "Perna",
-            "tipoAtividade": "",
-            "pontosAtividade": "11.11",
-            "caloriasAtividade": 0,
-            "passosAtividade": 0,
-            "duracaoAtividade": "70",
-            "distanciaAtividade": 0,
-            "dataAtividade": "26-08-2024"
-        },
-        {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "Ombros ",
-            "tipoAtividade": "",
-            "pontosAtividade": "11.6",
-            "caloriasAtividade": "263",
-            "passosAtividade": 0,
-            "duracaoAtividade": "73",
-            "distanciaAtividade": 0,
-            "dataAtividade": "26-08-2024"
-        },
-        {
-            "idUsuario": 885420,
-            "nomeUsuario": "Leticia",
-            "tituloTreino": "Traditional Strength Training",
-            "tipoAtividade": "",
-            "pontosAtividade": "2.64",
-            "caloriasAtividade": "70",
-            "passosAtividade": 0,
-            "duracaoAtividade": "16",
-            "distanciaAtividade": 0,
-            "dataAtividade": "26-08-2024"
-        },
-        {
-            "idUsuario": 885420,
-            "nomeUsuario": "Leticia",
-            "tituloTreino": "Walking",
-            "tipoAtividade": "",
-            "pontosAtividade": "3.01",
-            "caloriasAtividade": "141",
-            "passosAtividade": 0,
-            "duracaoAtividade": "35",
-            "distanciaAtividade": "2.91",
-            "dataAtividade": "26-08-2024"
         },
         {
             "idUsuario": 805183,
@@ -4657,30 +3529,6 @@
             "dataAtividade": "26-08-2024"
         },
         {
-            "idUsuario": 885420,
-            "nomeUsuario": "Leticia",
-            "tituloTreino": "Traditional Strength Training",
-            "tipoAtividade": "",
-            "pontosAtividade": "18.88",
-            "caloriasAtividade": "425",
-            "passosAtividade": 0,
-            "duracaoAtividade": "118",
-            "distanciaAtividade": 0,
-            "dataAtividade": "25-08-2024"
-        },
-        {
-            "idUsuario": 885420,
-            "nomeUsuario": "Leticia",
-            "tituloTreino": "Walking",
-            "tipoAtividade": "",
-            "pontosAtividade": "1.55",
-            "caloriasAtividade": "78",
-            "passosAtividade": 0,
-            "duracaoAtividade": "20",
-            "distanciaAtividade": "1.5",
-            "dataAtividade": "25-08-2024"
-        },
-        {
             "idUsuario": 821467,
             "nomeUsuario": "Leonardo",
             "tituloTreino": "Bra\u00e7os",
@@ -4702,18 +3550,6 @@
             "passosAtividade": 0,
             "duracaoAtividade": "56",
             "distanciaAtividade": 0,
-            "dataAtividade": "25-08-2024"
-        },
-        {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "Corrida ",
-            "tipoAtividade": "",
-            "pontosAtividade": "17.77",
-            "caloriasAtividade": "708",
-            "passosAtividade": 0,
-            "duracaoAtividade": "71",
-            "distanciaAtividade": "12.01",
             "dataAtividade": "25-08-2024"
         },
         {
@@ -4741,18 +3577,6 @@
             "dataAtividade": "24-08-2024"
         },
         {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "Leg day monstruoso \u2620\ufe0f",
-            "tipoAtividade": "",
-            "pontosAtividade": "22.42",
-            "caloriasAtividade": "663",
-            "passosAtividade": 0,
-            "duracaoAtividade": "141",
-            "distanciaAtividade": 0,
-            "dataAtividade": "24-08-2024"
-        },
-        {
             "idUsuario": 317341,
             "nomeUsuario": "Bruno",
             "tituloTreino": "Pole dance mas hj tem mais",
@@ -4762,18 +3586,6 @@
             "passosAtividade": 0,
             "duracaoAtividade": "69",
             "distanciaAtividade": "0.68",
-            "dataAtividade": "24-08-2024"
-        },
-        {
-            "idUsuario": 979446,
-            "nomeUsuario": "Vinicius",
-            "tituloTreino": "Corrida matina leve",
-            "tipoAtividade": "",
-            "pontosAtividade": "7.4",
-            "caloriasAtividade": 0,
-            "passosAtividade": 0,
-            "duracaoAtividade": "30",
-            "distanciaAtividade": "5",
             "dataAtividade": "24-08-2024"
         },
         {
@@ -4789,18 +3601,6 @@
             "dataAtividade": "24-08-2024"
         },
         {
-            "idUsuario": 979446,
-            "nomeUsuario": "Vinicius",
-            "tituloTreino": "Peito e b\u00edceps ",
-            "tipoAtividade": "",
-            "pontosAtividade": "9.52",
-            "caloriasAtividade": 0,
-            "passosAtividade": 0,
-            "duracaoAtividade": "60",
-            "distanciaAtividade": 0,
-            "dataAtividade": "23-08-2024"
-        },
-        {
             "idUsuario": 317341,
             "nomeUsuario": "Bruno",
             "tituloTreino": "Legsy ",
@@ -4809,18 +3609,6 @@
             "caloriasAtividade": "504",
             "passosAtividade": 0,
             "duracaoAtividade": "60",
-            "distanciaAtividade": 0,
-            "dataAtividade": "23-08-2024"
-        },
-        {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "Treininho de ombros express",
-            "tipoAtividade": "",
-            "pontosAtividade": "7.16",
-            "caloriasAtividade": "156",
-            "passosAtividade": 0,
-            "duracaoAtividade": "45",
             "distanciaAtividade": 0,
             "dataAtividade": "23-08-2024"
         },
@@ -4873,42 +3661,6 @@
             "dataAtividade": "23-08-2024"
         },
         {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "Corrida ",
-            "tipoAtividade": "",
-            "pontosAtividade": "14.8",
-            "caloriasAtividade": "648",
-            "passosAtividade": 0,
-            "duracaoAtividade": "70",
-            "distanciaAtividade": "10",
-            "dataAtividade": "23-08-2024"
-        },
-        {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "Mobilidade pra soltar as pernas ",
-            "tipoAtividade": "",
-            "pontosAtividade": "4.22",
-            "caloriasAtividade": "73",
-            "passosAtividade": 0,
-            "duracaoAtividade": "30",
-            "distanciaAtividade": 0,
-            "dataAtividade": "22-08-2024"
-        },
-        {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "Bike indoor ",
-            "tipoAtividade": "",
-            "pontosAtividade": "10.49",
-            "caloriasAtividade": "337",
-            "passosAtividade": 0,
-            "duracaoAtividade": "52",
-            "distanciaAtividade": 0,
-            "dataAtividade": "22-08-2024"
-        },
-        {
             "idUsuario": 821467,
             "nomeUsuario": "Leonardo",
             "tituloTreino": "Escadarias",
@@ -4943,30 +3695,6 @@
             "duracaoAtividade": "44",
             "distanciaAtividade": 0,
             "dataAtividade": "22-08-2024"
-        },
-        {
-            "idUsuario": 979446,
-            "nomeUsuario": "Vinicius",
-            "tituloTreino": "Costas e tr\u00edceps ",
-            "tipoAtividade": "",
-            "pontosAtividade": "10.32",
-            "caloriasAtividade": 0,
-            "passosAtividade": 0,
-            "duracaoAtividade": "65",
-            "distanciaAtividade": 0,
-            "dataAtividade": "21-08-2024"
-        },
-        {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "Corrida (pisei em uma pedra correndo e torci o p\u00e9 \ud83e\udd72)",
-            "tipoAtividade": "",
-            "pontosAtividade": "8.9",
-            "caloriasAtividade": "360",
-            "passosAtividade": 0,
-            "duracaoAtividade": "41",
-            "distanciaAtividade": "6.01",
-            "dataAtividade": "21-08-2024"
         },
         {
             "idUsuario": 317341,
@@ -5029,30 +3757,6 @@
             "dataAtividade": "21-08-2024"
         },
         {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "Costas e ombros express ",
-            "tipoAtividade": "",
-            "pontosAtividade": "11.02",
-            "caloriasAtividade": "218",
-            "passosAtividade": 0,
-            "duracaoAtividade": "69",
-            "distanciaAtividade": 0,
-            "dataAtividade": "21-08-2024"
-        },
-        {
-            "idUsuario": 885420,
-            "nomeUsuario": "Leticia",
-            "tituloTreino": "Bracitos fortitos!",
-            "tipoAtividade": "",
-            "pontosAtividade": "6.83",
-            "caloriasAtividade": 0,
-            "passosAtividade": 0,
-            "duracaoAtividade": "43",
-            "distanciaAtividade": 0,
-            "dataAtividade": "20-08-2024"
-        },
-        {
             "idUsuario": 821467,
             "nomeUsuario": "Leonardo",
             "tituloTreino": "Hj com meu gymbro",
@@ -5113,42 +3817,6 @@
             "dataAtividade": "20-08-2024"
         },
         {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "Leg day + 30\u2019 de el\u00edptico ",
-            "tipoAtividade": "",
-            "pontosAtividade": "23.03",
-            "caloriasAtividade": "555",
-            "passosAtividade": 0,
-            "duracaoAtividade": "140",
-            "distanciaAtividade": 0,
-            "dataAtividade": "20-08-2024"
-        },
-        {
-            "idUsuario": 885420,
-            "nomeUsuario": "Leticia",
-            "tituloTreino": "Walking",
-            "tipoAtividade": "",
-            "pontosAtividade": "0.9",
-            "caloriasAtividade": "55",
-            "passosAtividade": 0,
-            "duracaoAtividade": "19",
-            "distanciaAtividade": "0.87",
-            "dataAtividade": "20-08-2024"
-        },
-        {
-            "idUsuario": 885420,
-            "nomeUsuario": "Leticia",
-            "tituloTreino": "Walking",
-            "tipoAtividade": "",
-            "pontosAtividade": "2.21",
-            "caloriasAtividade": "119",
-            "passosAtividade": 0,
-            "duracaoAtividade": "19",
-            "distanciaAtividade": "2.13",
-            "dataAtividade": "20-08-2024"
-        },
-        {
             "idUsuario": 821467,
             "nomeUsuario": "Leonardo",
             "tituloTreino": "Ombro e peito",
@@ -5159,42 +3827,6 @@
             "duracaoAtividade": "101",
             "distanciaAtividade": 0,
             "dataAtividade": "20-08-2024"
-        },
-        {
-            "idUsuario": 885420,
-            "nomeUsuario": "Leticia",
-            "tituloTreino": "Traditional Strength Training",
-            "tipoAtividade": "",
-            "pontosAtividade": "5.33",
-            "caloriasAtividade": "116",
-            "passosAtividade": 0,
-            "duracaoAtividade": "33",
-            "distanciaAtividade": 0,
-            "dataAtividade": "20-08-2024"
-        },
-        {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "Ombros \ud83e\uddc5",
-            "tipoAtividade": "",
-            "pontosAtividade": "12.78",
-            "caloriasAtividade": "320",
-            "passosAtividade": 0,
-            "duracaoAtividade": "80",
-            "distanciaAtividade": 0,
-            "dataAtividade": "19-08-2024"
-        },
-        {
-            "idUsuario": 979446,
-            "nomeUsuario": "Vinicius",
-            "tituloTreino": "Quadr\u00edceps ",
-            "tipoAtividade": "",
-            "pontosAtividade": "8.73",
-            "caloriasAtividade": "264",
-            "passosAtividade": 0,
-            "duracaoAtividade": "55",
-            "distanciaAtividade": 0,
-            "dataAtividade": "19-08-2024"
         },
         {
             "idUsuario": 317304,
@@ -5245,18 +3877,6 @@
             "dataAtividade": "19-08-2024"
         },
         {
-            "idUsuario": 885420,
-            "nomeUsuario": "Leticia",
-            "tituloTreino": "Walking",
-            "tipoAtividade": "",
-            "pontosAtividade": "3.38",
-            "caloriasAtividade": "161",
-            "passosAtividade": 0,
-            "duracaoAtividade": "60",
-            "distanciaAtividade": "3.27",
-            "dataAtividade": "18-08-2024"
-        },
-        {
             "idUsuario": 430994,
             "nomeUsuario": "Cecilia",
             "tituloTreino": "aqui foi \ud83c\udde8\ud83c\uddf4\ud83e\udee1\u2728",
@@ -5279,30 +3899,6 @@
             "duracaoAtividade": "79",
             "distanciaAtividade": 0,
             "dataAtividade": "18-08-2024"
-        },
-        {
-            "idUsuario": 885420,
-            "nomeUsuario": "Leticia",
-            "tituloTreino": "T\u00eanis ! ",
-            "tipoAtividade": "",
-            "pontosAtividade": "23.68",
-            "caloriasAtividade": 0,
-            "passosAtividade": 0,
-            "duracaoAtividade": "135",
-            "distanciaAtividade": 0,
-            "dataAtividade": "17-08-2024"
-        },
-        {
-            "idUsuario": 885420,
-            "nomeUsuario": "Leticia",
-            "tituloTreino": "Stand up de leve!",
-            "tipoAtividade": "",
-            "pontosAtividade": "9.07",
-            "caloriasAtividade": "188",
-            "passosAtividade": 0,
-            "duracaoAtividade": "51",
-            "distanciaAtividade": 0,
-            "dataAtividade": "17-08-2024"
         },
         {
             "idUsuario": 317341,
@@ -5365,18 +3961,6 @@
             "dataAtividade": "16-08-2024"
         },
         {
-            "idUsuario": 979446,
-            "nomeUsuario": "Vinicius",
-            "tituloTreino": "Sextou",
-            "tipoAtividade": "Muscula\u00e7\u00e3o",
-            "pontosAtividade": "11.11",
-            "caloriasAtividade": 0,
-            "passosAtividade": 0,
-            "duracaoAtividade": "70",
-            "distanciaAtividade": 0,
-            "dataAtividade": "16-08-2024"
-        },
-        {
             "idUsuario": 805183,
             "nomeUsuario": "Leonardo",
             "tituloTreino": "Arms + Forearms ",
@@ -5411,30 +3995,6 @@
             "duracaoAtividade": "68",
             "distanciaAtividade": 0,
             "dataAtividade": "16-08-2024"
-        },
-        {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "Corrida ",
-            "tipoAtividade": "",
-            "pontosAtividade": "14.81",
-            "caloriasAtividade": "614",
-            "passosAtividade": 0,
-            "duracaoAtividade": "66",
-            "distanciaAtividade": "10.01",
-            "dataAtividade": "16-08-2024"
-        },
-        {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "Mobilidade pra soltar o corpo \ud83e\uddd8\ud83c\udffb\u200d\u2640\ufe0f\ud83e\udd38\ud83c\udffb\u200d\u2642\ufe0f",
-            "tipoAtividade": "",
-            "pontosAtividade": "3.59",
-            "caloriasAtividade": "65",
-            "passosAtividade": 0,
-            "duracaoAtividade": "25",
-            "distanciaAtividade": 0,
-            "dataAtividade": "15-08-2024"
         },
         {
             "idUsuario": 430994,
@@ -5485,18 +4045,6 @@
             "dataAtividade": "15-08-2024"
         },
         {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "Leg day mixuruca + 30\u2019 de el\u00edptico ",
-            "tipoAtividade": "",
-            "pontosAtividade": "16.82",
-            "caloriasAtividade": "480",
-            "passosAtividade": 0,
-            "duracaoAtividade": "101",
-            "distanciaAtividade": 0,
-            "dataAtividade": "15-08-2024"
-        },
-        {
             "idUsuario": 317304,
             "nomeUsuario": "Daniel",
             "tituloTreino": "Gym",
@@ -5521,18 +4069,6 @@
             "dataAtividade": "14-08-2024"
         },
         {
-            "idUsuario": 885420,
-            "nomeUsuario": "Leticia",
-            "tituloTreino": "Luta contra o frio para come\u00e7ar ! ",
-            "tipoAtividade": "Muscula\u00e7\u00e3o",
-            "pontosAtividade": "9.52",
-            "caloriasAtividade": 0,
-            "passosAtividade": 0,
-            "duracaoAtividade": "60",
-            "distanciaAtividade": 0,
-            "dataAtividade": "14-08-2024"
-        },
-        {
             "idUsuario": 815453,
             "nomeUsuario": "Juliana",
             "tituloTreino": "Treino + jogo",
@@ -5542,18 +4078,6 @@
             "passosAtividade": 0,
             "duracaoAtividade": "150",
             "distanciaAtividade": 0,
-            "dataAtividade": "14-08-2024"
-        },
-        {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "Corrida com obst\u00e1culos ",
-            "tipoAtividade": "",
-            "pontosAtividade": "14.82",
-            "caloriasAtividade": "577",
-            "passosAtividade": 0,
-            "duracaoAtividade": "60",
-            "distanciaAtividade": "10.02",
             "dataAtividade": "14-08-2024"
         },
         {
@@ -5591,18 +4115,6 @@
             "duracaoAtividade": "75",
             "distanciaAtividade": 0,
             "dataAtividade": "14-08-2024"
-        },
-        {
-            "idUsuario": 885420,
-            "nomeUsuario": "Leticia",
-            "tituloTreino": "Treino v\u00f4lei ! ",
-            "tipoAtividade": "",
-            "pontosAtividade": "23.21",
-            "caloriasAtividade": 0,
-            "passosAtividade": 0,
-            "duracaoAtividade": "130",
-            "distanciaAtividade": 0,
-            "dataAtividade": "13-08-2024"
         },
         {
             "idUsuario": 317304,
@@ -5701,18 +4213,6 @@
             "dataAtividade": "13-08-2024"
         },
         {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "Leg day + 30\u2019 el\u00edptico a 3\u00b0C \ud83e\udd72",
-            "tipoAtividade": "",
-            "pontosAtividade": "18.93",
-            "caloriasAtividade": "560",
-            "passosAtividade": 0,
-            "duracaoAtividade": "114",
-            "distanciaAtividade": 0,
-            "dataAtividade": "13-08-2024"
-        },
-        {
             "idUsuario": 815453,
             "nomeUsuario": "Juliana",
             "tituloTreino": "Padel com 4 graus",
@@ -5725,18 +4225,6 @@
             "dataAtividade": "13-08-2024"
         },
         {
-            "idUsuario": 885420,
-            "nomeUsuario": "Leticia",
-            "tituloTreino": "T\u00eanis com a galera! ",
-            "tipoAtividade": "",
-            "pontosAtividade": "26.32",
-            "caloriasAtividade": 0,
-            "passosAtividade": 0,
-            "duracaoAtividade": "150",
-            "distanciaAtividade": 0,
-            "dataAtividade": "12-08-2024"
-        },
-        {
             "idUsuario": 317304,
             "nomeUsuario": "Daniel",
             "tituloTreino": "Crossfit + Fortalecimento",
@@ -5745,18 +4233,6 @@
             "caloriasAtividade": "916",
             "passosAtividade": 0,
             "duracaoAtividade": "98",
-            "distanciaAtividade": 0,
-            "dataAtividade": "12-08-2024"
-        },
-        {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "Costas + 40\u2019 de el\u00edptico ",
-            "tipoAtividade": "",
-            "pontosAtividade": "19.05",
-            "caloriasAtividade": "606",
-            "passosAtividade": 0,
-            "duracaoAtividade": "114",
             "distanciaAtividade": 0,
             "dataAtividade": "12-08-2024"
         },
@@ -5881,18 +4357,6 @@
             "dataAtividade": "10-08-2024"
         },
         {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "Leg day ",
-            "tipoAtividade": "",
-            "pontosAtividade": "15.92",
-            "caloriasAtividade": "352",
-            "passosAtividade": 0,
-            "duracaoAtividade": "100",
-            "distanciaAtividade": 0,
-            "dataAtividade": "10-08-2024"
-        },
-        {
             "idUsuario": 804592,
             "nomeUsuario": "Pedro",
             "tituloTreino": "Dia de costas \ud83d\udcaa",
@@ -5949,18 +4413,6 @@
             "caloriasAtividade": 0,
             "passosAtividade": "391",
             "duracaoAtividade": "67",
-            "distanciaAtividade": 0,
-            "dataAtividade": "09-08-2024"
-        },
-        {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "Ombros + 35\u2019 de simulador de escada ",
-            "tipoAtividade": "",
-            "pontosAtividade": "18.94",
-            "caloriasAtividade": "476",
-            "passosAtividade": 0,
-            "duracaoAtividade": "114",
             "distanciaAtividade": 0,
             "dataAtividade": "09-08-2024"
         },
@@ -6037,30 +4489,6 @@
             "dataAtividade": "08-08-2024"
         },
         {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "Leg day + 30\u2019 de el\u00edptico ",
-            "tipoAtividade": "",
-            "pontosAtividade": "20.59",
-            "caloriasAtividade": "649",
-            "passosAtividade": 0,
-            "duracaoAtividade": "136",
-            "distanciaAtividade": 0,
-            "dataAtividade": "08-08-2024"
-        },
-        {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "Corridinha leve p\u00f3s viagem ",
-            "tipoAtividade": "",
-            "pontosAtividade": "7.42",
-            "caloriasAtividade": "303",
-            "passosAtividade": 0,
-            "duracaoAtividade": "31",
-            "distanciaAtividade": "5.02",
-            "dataAtividade": "08-08-2024"
-        },
-        {
             "idUsuario": 805183,
             "nomeUsuario": "Leonardo",
             "tituloTreino": "Pernetas (vortei)",
@@ -6118,18 +4546,6 @@
             "passosAtividade": 0,
             "duracaoAtividade": "75",
             "distanciaAtividade": 0,
-            "dataAtividade": "07-08-2024"
-        },
-        {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "Caminhadinha com a nen\u00e9m \ud83d\udc36",
-            "tipoAtividade": "",
-            "pontosAtividade": "2.2",
-            "caloriasAtividade": "131",
-            "passosAtividade": 0,
-            "duracaoAtividade": "26",
-            "distanciaAtividade": "2.13",
             "dataAtividade": "07-08-2024"
         },
         {
@@ -6301,18 +4717,6 @@
             "dataAtividade": "04-08-2024"
         },
         {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "Passeando de bike pelo RJ",
-            "tipoAtividade": "",
-            "pontosAtividade": "8.88",
-            "caloriasAtividade": "211",
-            "passosAtividade": 0,
-            "duracaoAtividade": "44",
-            "distanciaAtividade": "6.33",
-            "dataAtividade": "04-08-2024"
-        },
-        {
             "idUsuario": 430994,
             "nomeUsuario": "Cecilia",
             "tituloTreino": "Crosszinnbb",
@@ -6358,18 +4762,6 @@
             "passosAtividade": 0,
             "duracaoAtividade": "24",
             "distanciaAtividade": "4.6",
-            "dataAtividade": "02-08-2024"
-        },
-        {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "Corrida ",
-            "tipoAtividade": "",
-            "pontosAtividade": "11.97",
-            "caloriasAtividade": "478",
-            "passosAtividade": 0,
-            "duracaoAtividade": "49",
-            "distanciaAtividade": "8.09",
             "dataAtividade": "02-08-2024"
         },
         {
@@ -6442,30 +4834,6 @@
             "passosAtividade": 0,
             "duracaoAtividade": "90",
             "distanciaAtividade": 0,
-            "dataAtividade": "01-08-2024"
-        },
-        {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "Leg day monstrooo \ud83d\udc80",
-            "tipoAtividade": "",
-            "pontosAtividade": "18.62",
-            "caloriasAtividade": "642",
-            "passosAtividade": 0,
-            "duracaoAtividade": "117",
-            "distanciaAtividade": 0,
-            "dataAtividade": "01-08-2024"
-        },
-        {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "Corrida",
-            "tipoAtividade": "",
-            "pontosAtividade": "7.43",
-            "caloriasAtividade": "336",
-            "passosAtividade": 0,
-            "duracaoAtividade": "31",
-            "distanciaAtividade": "5.02",
             "dataAtividade": "01-08-2024"
         },
         {
@@ -6661,18 +5029,6 @@
             "dataAtividade": "30-07-2024"
         },
         {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "Leg day ",
-            "tipoAtividade": "",
-            "pontosAtividade": "17.3",
-            "caloriasAtividade": "402",
-            "passosAtividade": 0,
-            "duracaoAtividade": "109",
-            "distanciaAtividade": 0,
-            "dataAtividade": "30-07-2024"
-        },
-        {
             "idUsuario": 317304,
             "nomeUsuario": "Daniel",
             "tituloTreino": "Cross + Fortalecimento",
@@ -6706,30 +5062,6 @@
             "passosAtividade": 0,
             "duracaoAtividade": "32",
             "distanciaAtividade": 0,
-            "dataAtividade": "29-07-2024"
-        },
-        {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "Ombros \ud83e\uddc5",
-            "tipoAtividade": "",
-            "pontosAtividade": "11.6",
-            "caloriasAtividade": "301",
-            "passosAtividade": 0,
-            "duracaoAtividade": "73",
-            "distanciaAtividade": 0,
-            "dataAtividade": "29-07-2024"
-        },
-        {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "50\u2019 de rodagem leve ",
-            "tipoAtividade": "",
-            "pontosAtividade": "12.32",
-            "caloriasAtividade": "496",
-            "passosAtividade": 0,
-            "duracaoAtividade": "50",
-            "distanciaAtividade": "8.33",
             "dataAtividade": "29-07-2024"
         },
         {
@@ -6853,18 +5185,6 @@
             "dataAtividade": "28-07-2024"
         },
         {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "Corrida com o melhor pr\u00e9 treino: rel\u00f3gio novo \ud83e\udd79\ud83e\udd70",
-            "tipoAtividade": "",
-            "pontosAtividade": "14.82",
-            "caloriasAtividade": "625",
-            "passosAtividade": 0,
-            "duracaoAtividade": "62",
-            "distanciaAtividade": "10.02",
-            "dataAtividade": "28-07-2024"
-        },
-        {
             "idUsuario": 317304,
             "nomeUsuario": "Daniel",
             "tituloTreino": "Longuinho",
@@ -6985,18 +5305,6 @@
             "dataAtividade": "26-07-2024"
         },
         {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "Leg day ",
-            "tipoAtividade": "",
-            "pontosAtividade": "20.06",
-            "caloriasAtividade": "402",
-            "passosAtividade": 0,
-            "duracaoAtividade": "126",
-            "distanciaAtividade": 0,
-            "dataAtividade": "26-07-2024"
-        },
-        {
             "idUsuario": 318971,
             "nomeUsuario": "Gustavo",
             "tituloTreino": "Ombro, 3km, triceps",
@@ -7030,18 +5338,6 @@
             "passosAtividade": 0,
             "duracaoAtividade": "65",
             "distanciaAtividade": 0,
-            "dataAtividade": "26-07-2024"
-        },
-        {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "Corridinha",
-            "tipoAtividade": "",
-            "pontosAtividade": "15.06",
-            "caloriasAtividade": 0,
-            "passosAtividade": 0,
-            "duracaoAtividade": "62",
-            "distanciaAtividade": "10.18",
             "dataAtividade": "26-07-2024"
         },
         {
@@ -7141,18 +5437,6 @@
             "dataAtividade": "24-07-2024"
         },
         {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "Sup. capenga com academia mega cheia",
-            "tipoAtividade": "",
-            "pontosAtividade": "10.51",
-            "caloriasAtividade": "156",
-            "passosAtividade": 0,
-            "duracaoAtividade": "66",
-            "distanciaAtividade": 0,
-            "dataAtividade": "24-07-2024"
-        },
-        {
             "idUsuario": 318971,
             "nomeUsuario": "Gustavo",
             "tituloTreino": "Jiu-jitsu",
@@ -7199,30 +5483,6 @@
             "duracaoAtividade": "73",
             "distanciaAtividade": 0,
             "dataAtividade": "24-07-2024"
-        },
-        {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "Corridinha pra come\u00e7ar bem o dia \ud83e\udef6\ud83c\udffb",
-            "tipoAtividade": "",
-            "pontosAtividade": "14.81",
-            "caloriasAtividade": 0,
-            "passosAtividade": 0,
-            "duracaoAtividade": "66",
-            "distanciaAtividade": "10.01",
-            "dataAtividade": "24-07-2024"
-        },
-        {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "Leg day no pior hor\u00e1rio \ud83e\udd72",
-            "tipoAtividade": "",
-            "pontosAtividade": "19.3",
-            "caloriasAtividade": "331",
-            "passosAtividade": 0,
-            "duracaoAtividade": "100",
-            "distanciaAtividade": 0,
-            "dataAtividade": "23-07-2024"
         },
         {
             "idUsuario": 430994,
@@ -7321,18 +5581,6 @@
             "dataAtividade": "22-07-2024"
         },
         {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "Corrida ",
-            "tipoAtividade": "",
-            "pontosAtividade": "10.49",
-            "caloriasAtividade": 0,
-            "passosAtividade": 0,
-            "duracaoAtividade": "46",
-            "distanciaAtividade": "7.09",
-            "dataAtividade": "22-07-2024"
-        },
-        {
             "idUsuario": 318971,
             "nomeUsuario": "Gustavo",
             "tituloTreino": "Futvolei arpoador segunda",
@@ -7390,18 +5638,6 @@
             "passosAtividade": 0,
             "duracaoAtividade": "113",
             "distanciaAtividade": 0,
-            "dataAtividade": "21-07-2024"
-        },
-        {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "Corridinha leve p\u00f3s gripe braba \ud83e\udd72",
-            "tipoAtividade": "",
-            "pontosAtividade": "7.46",
-            "caloriasAtividade": 0,
-            "passosAtividade": 0,
-            "duracaoAtividade": "31",
-            "distanciaAtividade": "5.04",
             "dataAtividade": "21-07-2024"
         },
         {
@@ -7801,18 +6037,6 @@
             "dataAtividade": "17-07-2024"
         },
         {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "Corridinha (pelo Strava pq o gps do rel\u00f3gio t\u00e1 bugado) \ud83e\udd21",
-            "tipoAtividade": "",
-            "pontosAtividade": "9.76",
-            "caloriasAtividade": 0,
-            "passosAtividade": 0,
-            "duracaoAtividade": "40",
-            "distanciaAtividade": "6.6",
-            "dataAtividade": "17-07-2024"
-        },
-        {
             "idUsuario": 317341,
             "nomeUsuario": "Bruno",
             "tituloTreino": "Deus tem seus preferidos",
@@ -7981,18 +6205,6 @@
             "dataAtividade": "16-07-2024"
         },
         {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "Leg day ",
-            "tipoAtividade": "",
-            "pontosAtividade": "18.91",
-            "caloriasAtividade": "306",
-            "passosAtividade": 0,
-            "duracaoAtividade": "98",
-            "distanciaAtividade": 0,
-            "dataAtividade": "16-07-2024"
-        },
-        {
             "idUsuario": 821467,
             "nomeUsuario": "Leonardo",
             "tituloTreino": "N queria vir",
@@ -8041,18 +6253,6 @@
             "dataAtividade": "15-07-2024"
         },
         {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "Ombros com a academia lotada (INSUPORT\u00c1VEL)",
-            "tipoAtividade": "",
-            "pontosAtividade": "14.66",
-            "caloriasAtividade": "178",
-            "passosAtividade": 0,
-            "duracaoAtividade": "76",
-            "distanciaAtividade": 0,
-            "dataAtividade": "15-07-2024"
-        },
-        {
             "idUsuario": 318971,
             "nomeUsuario": "Gustavo",
             "tituloTreino": "Futvolei \u26bd\ufe0f ",
@@ -8086,18 +6286,6 @@
             "passosAtividade": 0,
             "duracaoAtividade": "48",
             "distanciaAtividade": 0,
-            "dataAtividade": "15-07-2024"
-        },
-        {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "Esqueci o rel\u00f3gio \ud83e\udd72 - 8km na esteira ",
-            "tipoAtividade": "",
-            "pontosAtividade": "11.84",
-            "caloriasAtividade": 0,
-            "passosAtividade": 0,
-            "duracaoAtividade": "50",
-            "distanciaAtividade": "8",
             "dataAtividade": "15-07-2024"
         },
         {
@@ -8169,18 +6357,6 @@
             "caloriasAtividade": "467",
             "passosAtividade": 0,
             "duracaoAtividade": "70",
-            "distanciaAtividade": 0,
-            "dataAtividade": "13-07-2024"
-        },
-        {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "Leg day divido pq meu strap salvou o treino no in\u00edcio ",
-            "tipoAtividade": "",
-            "pontosAtividade": "18.1",
-            "caloriasAtividade": "307",
-            "passosAtividade": 0,
-            "duracaoAtividade": "114",
             "distanciaAtividade": 0,
             "dataAtividade": "13-07-2024"
         },
@@ -8317,18 +6493,6 @@
             "dataAtividade": "12-07-2024"
         },
         {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "Corrida leve ",
-            "tipoAtividade": "",
-            "pontosAtividade": "14.85",
-            "caloriasAtividade": "552",
-            "passosAtividade": 0,
-            "duracaoAtividade": "67",
-            "distanciaAtividade": "10.04",
-            "dataAtividade": "12-07-2024"
-        },
-        {
             "idUsuario": 317304,
             "nomeUsuario": "Daniel",
             "tituloTreino": "Swimming",
@@ -8389,18 +6553,6 @@
             "dataAtividade": "11-07-2024"
         },
         {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "Leg day express ",
-            "tipoAtividade": "",
-            "pontosAtividade": "17.11",
-            "caloriasAtividade": "273",
-            "passosAtividade": 0,
-            "duracaoAtividade": "88",
-            "distanciaAtividade": 0,
-            "dataAtividade": "11-07-2024"
-        },
-        {
             "idUsuario": 821467,
             "nomeUsuario": "Leonardo",
             "tituloTreino": "Back + bike",
@@ -8446,18 +6598,6 @@
             "passosAtividade": 0,
             "duracaoAtividade": "90",
             "distanciaAtividade": 0,
-            "dataAtividade": "10-07-2024"
-        },
-        {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "Corrida ",
-            "tipoAtividade": "",
-            "pontosAtividade": "16.37",
-            "caloriasAtividade": "659",
-            "passosAtividade": 0,
-            "duracaoAtividade": "74",
-            "distanciaAtividade": "11.06",
             "dataAtividade": "10-07-2024"
         },
         {
@@ -8529,18 +6669,6 @@
             "caloriasAtividade": "330",
             "passosAtividade": "250",
             "duracaoAtividade": "51",
-            "distanciaAtividade": 0,
-            "dataAtividade": "09-07-2024"
-        },
-        {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "Superiores ",
-            "tipoAtividade": "",
-            "pontosAtividade": "18.85",
-            "caloriasAtividade": "214",
-            "passosAtividade": 0,
-            "duracaoAtividade": "98",
             "distanciaAtividade": 0,
             "dataAtividade": "09-07-2024"
         },
@@ -8677,18 +6805,6 @@
             "dataAtividade": "08-07-2024"
         },
         {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "Corrida",
-            "tipoAtividade": "",
-            "pontosAtividade": "13.36",
-            "caloriasAtividade": "548",
-            "passosAtividade": 0,
-            "duracaoAtividade": "61",
-            "distanciaAtividade": "9.03",
-            "dataAtividade": "08-07-2024"
-        },
-        {
             "idUsuario": 430994,
             "nomeUsuario": "Cecilia",
             "tituloTreino": "Inferiores intervaladin",
@@ -8699,18 +6815,6 @@
             "duracaoAtividade": "37",
             "distanciaAtividade": "1.12",
             "dataAtividade": "08-07-2024"
-        },
-        {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "Leg day",
-            "tipoAtividade": "",
-            "pontosAtividade": "18.47",
-            "caloriasAtividade": "348",
-            "passosAtividade": 0,
-            "duracaoAtividade": "96",
-            "distanciaAtividade": 0,
-            "dataAtividade": "07-07-2024"
         },
         {
             "idUsuario": 821467,
@@ -8917,18 +7021,6 @@
             "dataAtividade": "05-07-2024"
         },
         {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "Corrida",
-            "tipoAtividade": "",
-            "pontosAtividade": "13.42",
-            "caloriasAtividade": "533",
-            "passosAtividade": 0,
-            "duracaoAtividade": "60",
-            "distanciaAtividade": "9.07",
-            "dataAtividade": "05-07-2024"
-        },
-        {
             "idUsuario": 430994,
             "nomeUsuario": "Cecilia",
             "tituloTreino": "Superiores \ud83d\ude0d de noite \ud83d\ude35\u200d\ud83d\udcab\ud83d\ude35\u200d\ud83d\udcab\ud83d\ude35\u200d\ud83d\udcab",
@@ -9085,30 +7177,6 @@
             "dataAtividade": "03-07-2024"
         },
         {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "5km na rua",
-            "tipoAtividade": "",
-            "pontosAtividade": "7.51",
-            "caloriasAtividade": "311",
-            "passosAtividade": 0,
-            "duracaoAtividade": "33",
-            "distanciaAtividade": "5.08",
-            "dataAtividade": "03-07-2024"
-        },
-        {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "5km na esteira",
-            "tipoAtividade": "",
-            "pontosAtividade": "7.4",
-            "caloriasAtividade": "285",
-            "passosAtividade": 0,
-            "duracaoAtividade": "31",
-            "distanciaAtividade": "5",
-            "dataAtividade": "03-07-2024"
-        },
-        {
             "idUsuario": 821467,
             "nomeUsuario": "Leonardo",
             "tituloTreino": "\u2620\ufe0f",
@@ -9141,18 +7209,6 @@
             "caloriasAtividade": "843",
             "passosAtividade": 0,
             "duracaoAtividade": "94",
-            "distanciaAtividade": 0,
-            "dataAtividade": "02-07-2024"
-        },
-        {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "Ombros",
-            "tipoAtividade": "",
-            "pontosAtividade": "13.83",
-            "caloriasAtividade": "158",
-            "passosAtividade": 0,
-            "duracaoAtividade": "71",
             "distanciaAtividade": 0,
             "dataAtividade": "02-07-2024"
         },
@@ -9325,18 +7381,6 @@
             "dataAtividade": "30-06-2024"
         },
         {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "Longo de domingo ",
-            "tipoAtividade": "",
-            "pontosAtividade": "19.24",
-            "caloriasAtividade": "680",
-            "passosAtividade": 0,
-            "duracaoAtividade": "75",
-            "distanciaAtividade": "13.01",
-            "dataAtividade": "30-06-2024"
-        },
-        {
             "idUsuario": 805183,
             "nomeUsuario": "Leonardo",
             "tituloTreino": "Free Running ",
@@ -9417,18 +7461,6 @@
             "caloriasAtividade": "530",
             "passosAtividade": 0,
             "duracaoAtividade": "60",
-            "distanciaAtividade": 0,
-            "dataAtividade": "29-06-2024"
-        },
-        {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "Leg day insano ",
-            "tipoAtividade": "",
-            "pontosAtividade": "26.44",
-            "caloriasAtividade": "481",
-            "passosAtividade": 0,
-            "duracaoAtividade": "137",
             "distanciaAtividade": 0,
             "dataAtividade": "29-06-2024"
         },
@@ -10677,18 +8709,6 @@
             "caloriasAtividade": "684",
             "passosAtividade": 0,
             "duracaoAtividade": "76",
-            "distanciaAtividade": 0,
-            "dataAtividade": "12-06-2024"
-        },
-        {
-            "idUsuario": 317564,
-            "nomeUsuario": "Georgia",
-            "tituloTreino": "Leg day",
-            "tipoAtividade": "",
-            "pontosAtividade": "23.53",
-            "caloriasAtividade": "329",
-            "passosAtividade": 0,
-            "duracaoAtividade": "122",
             "distanciaAtividade": 0,
             "dataAtividade": "12-06-2024"
         },
