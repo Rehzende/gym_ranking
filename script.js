@@ -14,13 +14,42 @@ async function loadData() {
             filterByMonth(data.stats, selectedMonth);
         });
 
-        document.getElementById('last4MonthsButton').addEventListener('click', () => {
-            calculateLast4Months(data.stats);
+        document.getElementById('last4MonthsButton').addEventListener('click', function() {
+            startCountdown(() => {
+                calculateLast4Months(data.stats);
+                showPodioModal();
+            });
         });
 
     } catch (error) {
         console.error('Erro ao carregar os dados:', error);
     }
+}
+
+function startCountdown(callback) {
+    var countdownElement = document.getElementById('countdown');
+    var countdown = 5;
+
+    countdownElement.classList.remove('hidden');
+
+    var interval = setInterval(function() {
+        countdownElement.textContent = countdown;
+        countdownElement.style.opacity = '1';
+        countdownElement.style.transform = 'scale(1.5)';
+        
+        setTimeout(function() {
+            countdownElement.style.opacity = '0';
+            countdownElement.style.transform = 'scale(1)';
+        }, 500);
+
+        countdown--;
+
+        if (countdown < 0) {
+            clearInterval(interval);
+            countdownElement.classList.add('hidden');
+            callback(); // Chama a função de cálculo após a contagem regressiva
+        }
+    }, 1000);
 }
 
 // Função para popular o filtro de meses
@@ -66,17 +95,17 @@ function calculateLast4Months(data) {
         const activityDate = new Date(person.dataAtividade.split('-').reverse().join('-'));
         const diffMonths = (currentDate.getFullYear() - activityDate.getFullYear()) * 12 + 
                            (currentDate.getMonth() - activityDate.getMonth());
-        return diffMonths <= 4;
+        return diffMonths <= 3;
     });
 
     const userPoints = aggregatePoints(last4MonthsData);
     updateTable(userPoints.sort((a, b) => b.pontos - a.pontos));
 
-    const top3 = userPoints.sort((a, b) => b.pontos - a.pontos).slice(0, 3);
-    updatePodium(top3);
+    const top5 = userPoints.sort((a, b) => b.pontos - a.pontos).slice(0, 5);
+    updatePodium(top5);
 
     // Mostra popup e confetes
-    showWinnersPopup(top3);
+    showPodioModal();
     triggerConfetti(); // Dispara confetes!
 
     document.getElementById('podio').style.display = 'flex';
@@ -120,38 +149,32 @@ function updateTable(data) {
     });
 }
 
-function updatePodium(top3) {
-    const positions = ['primeiro', 'segundo', 'terceiro'];
-    top3.forEach((person, index) => {
-        const positionId = positions[index];
-        document.getElementById(`${positionId}Nome`).innerText = person.nome;
-        document.getElementById(`${positionId}Foto`).src = person.foto;
+function updatePodium(top5) {
+    const positions = ['primeiro', 'segundo', 'terceiro', 'quarto', 'quinto'];
+    top5.forEach((person, index) => {
+        const position = positions[index];
+        document.getElementById(`${position}Foto`).src = person.foto;
+        document.getElementById(`${position}Nome`).innerText = person.nome;
+        document.getElementById(`${position}Pontos`).innerText = `Pontos: ${person.pontos.toFixed(2)}`;
     });
 }
 
-function showWinnersPopup(top3) {
-    const modal = document.getElementById('myModal');
-    const closeBtn = document.querySelector('.close');
-    const winnerList = document.getElementById('winnerList');
+function showWinnersPopup(top5) {
+    var modal = document.getElementById('podioModal');
+    var closeBtn = document.getElementById('closePodioModal');
 
-    winnerList.innerHTML = '';
-    top3.forEach((person, index) => {
-        winnerList.innerHTML += `
-            <p>${index + 1}. ${person.nome} - ${person.pontos.toFixed(2)} pontos 🏆</p>
-        `;
-    });
-
+    modal.classList.remove('hidden');
     modal.style.display = 'block';
 
-    closeBtn.onclick = function () {
+    closeBtn.onclick = function() {
         modal.style.display = 'none';
-    };
+    }
 
-    window.onclick = function (event) {
+    window.onclick = function(event) {
         if (event.target == modal) {
             modal.style.display = 'none';
         }
-    };
+    }
 }
 
 function triggerConfetti() {
@@ -177,6 +200,24 @@ function triggerConfetti() {
             requestAnimationFrame(frame);
         }
     }());
+}
+
+function showPodioModal() {
+    var modal = document.getElementById('podioModal');
+    var closeBtn = document.getElementById('closePodioModal');
+
+    modal.classList.remove('hidden');
+    modal.style.display = 'block';
+
+    closeBtn.onclick = function() {
+        modal.style.display = 'none';
+    }
+
+    window.onclick = function(event) {
+        if (event.target == modal) {
+            modal.style.display = 'none';
+        }
+    }
 }
 
 window.onload = loadData;

@@ -22,26 +22,12 @@
         <button id="last4MonthsButton">Calcular 4º Semestre</button>
 
         <!-- Pódio -->
-        <div id="podio" class="podio-container">
-            <div id="primeiro" class="podio-posicao">
-                <span class="estrelas">🥇</span>
-                <img id="primeiroFoto" class="podio-foto" src="" alt="Primeiro Lugar">
-                <p id="primeiroNome"></p>
-            </div>
-            <div id="segundo" class="podio-posicao">
-                <span class="estrelas">🥈</span>
-                <img id="segundoFoto" class="podio-foto" src="" alt="Segundo Lugar">
-                <p id="segundoNome"></p>
-            </div>
-            <div id="terceiro" class="podio-posicao">
-                <span class="estrelas">🥉</span>
-                <img id="terceiroFoto" class="podio-foto" src="" alt="Terceiro Lugar">
-                <p id="terceiroNome"></p>
-            </div>
-        </div>
+        <div id="countdown" class="hidden">5</div>
+
+
 
         <!-- Tabela -->
-        <table id="ranking">
+        <table id="ranking" class="hidden">
             <thead>
                 <tr>
                     <th>#</th>
@@ -53,6 +39,7 @@
             <tbody>
             </tbody>
         </table>
+        
 
         <!-- Resultados dos últimos 4 meses -->
         <div id="last4MonthsResult">
@@ -69,6 +56,45 @@
             <div id="winnerList"></div>
         </div>
     </div>
+
+<!-- Modal do Pódio -->
+<div id="podioModal" class="modal hidden">
+    <div class="modal-content">
+        <span class="close" id="closePodioModal">&times;</span>
+        <div id="podio" class="podio-container">
+            <div id="primeiro" class="podio-posicao">
+                <span class="estrelas">🥇</span>
+                <img id="primeiroFoto" class="podio-foto" src="" alt="Primeiro Lugar">
+                <p id="primeiroNome"></p>
+                <p id="primeiroPontos"></p>
+            </div>
+            <div id="segundo" class="podio-posicao">
+                <span class="estrelas">🥈</span>
+                <img id="segundoFoto" class="podio-foto" src="" alt="Segundo Lugar">
+                <p id="segundoNome"></p>
+                <p id="segundoPontos"></p>
+            </div>
+            <div id="terceiro" class="podio-posicao">
+                <span class="estrelas">🥉</span>
+                <img id="terceiroFoto" class="podio-foto" src="" alt="Terceiro Lugar">
+                <p id="terceiroNome"></p>
+                <p id="terceiroPontos"></p>
+            </div>
+            <div id="quarto" class="podio-posicao">
+                <span class="estrelas">4º</span>
+                <img id="quartoFoto" class="podio-foto" src="" alt="Quarto Lugar">
+                <p id="quartoNome"></p>
+                <p id="quartoPontos"></p>
+            </div>
+            <div id="quinto" class="podio-posicao">
+                <span class="estrelas">5º</span>
+                <img id="quintoFoto" class="podio-foto" src="" alt="Quinto Lugar">
+                <p id="quintoNome"></p>
+                <p id="quintoPontos"></p>
+            </div>
+        </div>
+    </div>
+</div>
 
     <!-- Confetti -->
     <canvas id="confetti-canvas"></canvas>
