@@ -1,6 +1,30 @@
 {
     "stats": [
         {
+            "idUsuario": 317341,
+            "nomeUsuario": "Bruno",
+            "tituloTreino": "Pole dance",
+            "tipoAtividade": "",
+            "pontosAtividade": "16.67",
+            "caloriasAtividade": 0,
+            "passosAtividade": 0,
+            "duracaoAtividade": "120",
+            "distanciaAtividade": 0,
+            "dataAtividade": "21-11-2024"
+        },
+        {
+            "idUsuario": 317341,
+            "nomeUsuario": "Bruno",
+            "tituloTreino": "Soft Biceps pra aguentar o pole",
+            "tipoAtividade": "",
+            "pontosAtividade": "7.55",
+            "caloriasAtividade": "311",
+            "passosAtividade": 0,
+            "duracaoAtividade": "47",
+            "distanciaAtividade": 0,
+            "dataAtividade": "20-11-2024"
+        },
+        {
             "idUsuario": 1057522,
             "nomeUsuario": "Sol",
             "tituloTreino": "O retorno de Jedi \ud83d\udcab",
